@@ -1,9 +1,26 @@
 #labels Featured,Phase-Design
-#Homepage of SourceCounter tool.
+#SourceCounter - 源代码统计工具 - 主页。
 
-= Introduction =
+= 简介(Introduction) =
 
-SourceCounter software is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 20 pre-defined!) of text or source files and report them to you in a quick summary.
+免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 VC++/.Net/JAVA/VB/Delphi/ASP/JSP/HTML 等项目的代码进行统计，并能保存统计的结果。
+
+= 下载地址 =
+
+http://boomworks.googlecode.com/files/SourceCounter-2.0.9.54.7z
+
+= 主要更新 =
+
+ * 2.0版 - BOOM 2008-10-30
+  * 支持多路径统计
+  * 支持更多文件格式
+  * 更改统计结果保存格式
+  * 支持多国语言（英、中、日已对应）
+
+ * 1.6.6.4 版 - BOOM 2006-1-26
+  * 支持对 ASP 和 HTML 文件的统计
+  * 保存统计源代码的文件夹路径
+
 
 = 主要功能和特点(Features) =
 
