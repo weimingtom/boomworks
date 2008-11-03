@@ -1,6 +1,11 @@
 #labels Featured,Phase-Support
 # Homepage of BoomWorks.Net. Thank you to visit this place.
 
+== Select Language ==
+ * [English BoomWorksHomepageEN]
+ * [中文 BoomWorksHomepageCN]
+ * [日本語 BoomWorksHomepageJP]
+
 == Boom's Works list ==
  * [SourceCounter SourceCounter]
 
