@@ -8,5 +8,5 @@
  [http://groups.google.com/group/boomworks/topics http://groups.google.com/group/boomworks/topics ]
 
 == Contact ==
- [boomworks@gmail.com mailto:boomworks@gmail.com]
- [boomworks@hotmail.com mailto:boomworks@gmail.com]
+ [mailto:boomworks@gmail.com boomworks@gmail.com]
+ [mailto:boomworks@hotmail.com boomworks@gmail.com]
