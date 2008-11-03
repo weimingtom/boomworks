@@ -3,7 +3,6 @@
 = [BoomWorksHomepageEN English version homepage] =
 = [BoomWorksHomepageJP 日本語] =
 
-= Contact =
- * [mailto:boomworks@gmail.com boomworks@gmail.com]
 
 # Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place.
+# Email: boomworks@gmail.com
