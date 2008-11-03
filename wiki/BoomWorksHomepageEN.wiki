@@ -1,6 +1,6 @@
 #summary One-sentence summary of this page.
 
 = Works list =
- * [SourceCounter-EN SourceCounter]
- * [PCTaskTimer-EN PCTaskTimer]
- * [SuperSearch-EN SuperSearch]
+ * [SourceCounterEN SourceCounter]
+ * [PCTaskTimerEN PCTaskTimer]
+ * [SuperSearchEN SuperSearch]
