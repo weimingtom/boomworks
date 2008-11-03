@@ -1,6 +1,6 @@
 #labels Featured,Phase-Support
-#Copyright © 2008 BoomWorks.Net (Since 1999), All Rights Reserved.Thank you to visit this place.
-E-mail: Boom<boomworks@gmail.com>
+# Copyright © 2008 BoomWorks.Net (Since 1999), All Rights Reserved.Thank you to visit this place.
+# E-mail: Boom<boomworks@gmail.com>
 
 == Introduction ==
 
