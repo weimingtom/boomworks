@@ -1,6 +1,7 @@
 #summary BoomWorks.Net left side bar.
 
-* [Home home]
-* [http://down.boomworks.net download]
+ * [Home Home]
+ * [http://down.boomworks.net Download]
+ * [http://bbs.boomworks.net BBS]
 
 _ [mailto:boomworks@gmail.com webmaster's mailbox] _
