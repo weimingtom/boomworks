@@ -1,6 +1,4 @@
 #labels Featured,Phase-Support
-# Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place.
-
 == Select Language ==
  * [BoomWorksHomepageCN 中文主页]
  * [BoomWorksHomepageEN English version homepage]
@@ -8,4 +6,5 @@
 
 == Contact ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com]
- * [mailto:boomworks@hotmail.com boomworks@gmail.com]
+
+# Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place.
