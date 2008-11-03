@@ -2,7 +2,7 @@
 # Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place.
 
 == Select Language ==
- * [BoomWorksHomepageEN English]
+ * [BoomWorksHomepageEN English version homepage]
  * [BoomWorksHomepageCN 中文]
  * [BoomWorksHomepageJP 日本語]
 
