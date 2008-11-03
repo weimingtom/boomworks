@@ -1,13 +1,9 @@
-#日本語のホームページです。
+#summary BoomWorks.Net の日本語のホームページです。
 
-= Introduction =
+= ソフト作品リスト =
+ * [SourceCounterJP ソースコードカウンタ]
+ * [SuperSearchJP スープサーチ]
+ * [PCTaskTimerJP PCタスクタイマ]
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= 連絡先 =
+ * [mailto:boomworks@gmail.com boomworks@gmail.com]
