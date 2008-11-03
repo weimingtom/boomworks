@@ -1,5 +1,5 @@
 #summary Homepage of BoomWorks.Net(Since 1999).
-#labels Featured,Phase-Support
+#labels Deprecated
 
 = [BoomWorksHomepageCN 中文主页] =
 = [BoomWorksHomepageEN English version homepage] =
