@@ -1,13 +1,30 @@
 #源代码统计工具 - SourceCounter 的主页。
 
-= Introduction =
+= 简介(Introduction) =
 
-Add your content here.
+免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目的代 码进行统计，并能保存统计的结果。
 
+= 下载地址 =
 
-= Details =
+http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= 主要功能和特点(Features) =
+
+ # 统计速度快、准确
+ # 支持对 20 多种代码格式进行统计
+ # 支持多目录和包含子目录的统计方式
+ # 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
+ # 支持多国语言界面（英文、简体中文、繁体中文、日语等）
+ # 支持自由选择要统计的代码格式
+
+= 主要更新(Update) =
+
+ * 2.0.10.61版 - BOOM 2008-11-1
+    * 支持多路径统计
+    * 支持更多文件格式
+    * .csv统计结果保存格式更改
+    * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
+
+ * 1.6.6.4 版 - BOOM 2006-1-26
+  * 支持对 ASP 和 HTML 文件的统计
+  * 保存统计源代码的文件夹路径
