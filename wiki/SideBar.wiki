@@ -1,5 +1,5 @@
 #summary BoomWorks.Net left side bar.
 
-= [home home] =
-= Details =
-=== [mailto:boomworks@gmail.com webmaster's mailbox]
+= [Home home] =
+
+=== [mailto:boomworks@gmail.com webmaster's mailbox] ===
