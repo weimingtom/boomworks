@@ -1,6 +1,5 @@
-#summary Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place.
+#summary Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place. Email:boomworks@gmail.com
 #labels Featured,Phase-Support
-# Email: boomworks@gmail.com
 
 = [BoomWorksHomepageCN 中文主页] =
 = [BoomWorksHomepageEN English version homepage] =
