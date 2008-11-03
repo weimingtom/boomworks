@@ -1,20 +1,11 @@
 #labels Featured,Phase-Support
-# Homepage of BoomWorks.Net. Thank you to visit this place.
+# Homepage of BoomWorks.Net(Since 1999). Thank you to visit this place.
 
 == Select Language ==
  * [BoomWorksHomepageEN English]
  * [BoomWorksHomepageCN 中文]
  * [BoomWorksHomepageJP 日本語]
 
-== Boom's Works list ==
- * [SourceCounter SourceCounter]
-
-== Discussions ==
- * [http://groups.google.com/group/boomworks/topics http://groups.google.com/group/boomworks/topics ]
-
 == Contact ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com]
  * [mailto:boomworks@hotmail.com boomworks@gmail.com]
-
-== Copyright ==
-# Copyright © 2008 BoomWorks.Net (Since 1999), All Rights Reserved.
