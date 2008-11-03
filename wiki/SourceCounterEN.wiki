@@ -1,0 +1,8 @@
+#SourceCounter english homepage.
+
+= Introduction =
+
+SourceCounter software is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 20 pre-defined!) of text or source files and report them to you in a quick summary.
+
+= Details =
+
