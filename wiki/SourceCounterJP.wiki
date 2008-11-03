@@ -5,7 +5,7 @@
 プログラムのコード行、空白行、コメント行に分けてカウントし、結果はカンマ区切り
 テキストファイル（CSV）として保存できます。
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn.png]
+[http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp.png]
 
 = ダウンロード =
 [http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z]
