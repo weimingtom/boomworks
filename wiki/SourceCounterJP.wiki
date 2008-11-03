@@ -1,0 +1,26 @@
+#summary ソースコードカウンタ － SourceCounter のホームページです。
+
+= ソフトの紹介 =
+プログラムのソースコードのステップ数(行数)をカウントするソフトです。
+プログラムのコード行、空白行、コメント行に分けてカウントし、結果はカンマ区切り
+テキストファイル（CSV）として保存できます。
+
+[http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn.png]
+
+= ダウンロード =
+[http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z http://boomworks.googlecode.com/files/sourcecounter-2.0.10.61.7z]
+
+= 機能一覧 =
+サポートしているプログラミング言語は以下の通りです。
+ * C、C++（.rc含む）
+ * JAVA
+ * C#
+ * VB.NET、VB（.frm含む）
+ * Delphi（.dfm含む）
+ * JSP
+ * ASP.NET、ASP
+ * HTML
+ * SQL
+
+= 連絡先 =
+ * [mailto:boomworks@gmail.com boomworks@gmail.com]
