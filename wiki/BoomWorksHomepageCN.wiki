@@ -1,7 +1,6 @@
 #BoomWorks.Net 中文主页.
 
 = 作品列表 =
+ * [SuperSearchCN 超级网搜]
  * [SourceCounterCN 源代码统计工具]
-
-
-= Details =
+ * [PCTaskTimerCN PC定时执行专家]
