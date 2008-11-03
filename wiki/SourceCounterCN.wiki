@@ -1,4 +1,4 @@
-#源代码统计工具 - SourceCounter 的主页。
+#sumary 源代码统计工具 - SourceCounter 的主页。
 
 = 简介(Introduction) =
 
