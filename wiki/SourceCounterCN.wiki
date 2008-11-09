@@ -9,7 +9,7 @@
 
 = 下载地址(Download) =
 
-最新版[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z]
 
 = 主要功能和特点(Features) =
 
