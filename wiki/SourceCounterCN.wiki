@@ -21,8 +21,7 @@
  # 支持多国语言界面（英文、简体中文、繁体中文、日语等）
  # 支持自由选择要统计的代码格式
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z 
-http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
 
 = 主要更新(Update) =
  * 2.1.14.75 - B O O M - 2008-11-08
