@@ -7,6 +7,6 @@
 = 详细(Details) =
 
 快速云计算平台（FastCloud）具有一下的功能特点：
- * Text in *bold* or _italic_
- * Headings, paragraphs, and lists
+ * 流程化： 基于IT业界最新的管理思想和流程 *ITIL*
+ * 快速、批量构建： 
  * Automatic links to other wiki pages
