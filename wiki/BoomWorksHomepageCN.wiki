@@ -1,6 +1,7 @@
 #summary BoomWorks.Net 中文主页。
 
 = 作品列表 =
+ * [FastCloudCN 快速云计算平台]
  * [SuperSearchCN 超级网搜]
  * [SourceCounterCN 源代码统计工具]
  * [PCTaskTimerCN PC定时执行专家]
