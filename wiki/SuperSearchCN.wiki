@@ -1,4 +1,4 @@
-#超级网搜 - SuperSearch 中文主页。
+#summary 超级网搜 - SuperSearch - 中文主页。
 
 = 软件简介(Introduction) =
 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
