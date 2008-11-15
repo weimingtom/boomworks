@@ -8,5 +8,7 @@
 
 快速云计算平台（FastCloud）具有一下的功能特点：
  * 流程化： 基于IT业界最新的管理思想和流程 *ITIL*
- * 快速、批量构建： 
- * Automatic links to other wiki pages
+ * 快速、批量构建： 基于VMware模板和多线程的快速、批量构建
+ * 完整的管理流程： 
+ * 友好的用户界面： 基于.Net Winform的C/S架构，具有良好的可扩展性
+ * 
