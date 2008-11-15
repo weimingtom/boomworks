@@ -1,6 +1,8 @@
 #summary BoomWorks.Net left side bar.
 #labels Deprecated
 
+[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo_s.gif]
+
  * [Home Home]
  * [http://down.boomworks.net Download]
  * [http://bbs.boomworks.net BBS]
