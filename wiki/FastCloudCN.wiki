@@ -1,13 +1,12 @@
-#summary 快速云计算平台 - Fastcloud - 中文主页。
+#summary 快速云计算平台 - FastCloud - 中文主页。
 
 = 介绍(Introduction) =
 
-Add your content here.
-
+快速云计算构建平台。能够快速、批量、流程化地构建出云计算所需要的大量的虚拟机（VM: Virtual machine）。本系统具有友好的用户界面，实现了完整的管理流程，方便使用，极大减少IT人员的学习新系统的成本。
 
 = 详细(Details) =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+快速云计算平台（FastCloud）具有一下的功能特点：
+ * Text in *bold* or _italic_
+ * Headings, paragraphs, and lists
+ * Automatic links to other wiki pages
