@@ -1,6 +1,6 @@
 #summary PC定时执行专家 - PCTaskTimer 主页。
 
-= Introduction =
+= 简介(Introduction) =
 功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。有定时“提醒/关机/待机/休眠/重启/注销/关闭显示器/清空回收站 /执行屏幕保护/执行DOS命令”等功能。提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。
 
 无需安装，无使用时间限制，欢迎下载试用。注意未注册用户不能使用全部功能，需要注册才能使用的功能请参考“主要功能和特点”。付费用户可享受技术支持和升级服务。
@@ -10,7 +10,7 @@ Unicode 版主要针对使用外文环境的用户，这个版本可是让你在
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_1.gif]
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
 
-= 下载地址 =
+= 下载地址(Download) =
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pcte-3.2.zip]
 
 = 主要功能和特点(Features) =
