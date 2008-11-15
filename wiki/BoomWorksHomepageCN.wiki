@@ -1,7 +1,8 @@
 #summary BoomWorks.Net 中文主页。
 
 = 作品列表 =
- * [FastCloudCN 快速云计算平台]
+ * [FastCloudCN 快速云计算平台] - 快速的云计算构建平台。能够批量、快速、流程化地构建中小企业的云计算环境。
+
  * [SuperSearchCN 超级网搜]
  * [SourceCounterCN 源代码统计工具]
  * [PCTaskTimerCN PC定时执行专家]
