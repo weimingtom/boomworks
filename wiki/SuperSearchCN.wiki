@@ -10,7 +10,7 @@
 [http://boomworks.googlecode.com/files/shot_1.gif]
 [http://boomworks.googlecode.com/files/shot_2.gif]
 
-= 下载 =
+= 下载(Download) =
 [http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip]
 
 = 主要功能和特点(Features) = 
