@@ -1,5 +1,7 @@
 #summary BoomWorks.Net 中文主页。
 
+[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
+
 = 作品列表(Works) =
  * [FastCloudCN 快速云计算平台] - 快速的云计算构建平台。能够批量、快速、流程化地构建中小企业的云计算环境。
 
