@@ -3,13 +3,13 @@
 
 = 简介(Introduction) =
 
-免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。
+免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、PHP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
 
 = 下载地址(Download) =
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z]
 
 = 主要功能和特点(Features) =
 
@@ -24,18 +24,22 @@
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
 
 = 主要更新(Update) =
- * 2.1.14.75 - B O O M - 2008-11-08
+ * 2.1.22.4 - B O O M 2008/11/16
+  * 开始支持对 PHP 代码的统计
+  * 更新 ASPX 代码统计的算法
+
+ * 2.1.14.75 - B O O M 2008/11/08
   * 增加计算代码的人月数和成本的功能
 
- * 2.0.10.61版 - BOOM 2008-11-1
-  * .csv统计结果保存格式更改
+ * 2.0.10.61版 - B O O M 2008/11/1
+  * .csv 统计结果保存格式更改
   * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
 
- * 2.0.1.1 - B O O M - 2008-10-23
+ * 2.0.1.1 - B O O M 2008/10/23
   * 支持多路径统计
   * 支持更多文件格式
 
- * 1.6.6.4 版 - BOOM 2006-1-26
+ * 1.6.6.4 版 - B O O M 2006/1/26
   * 支持对 ASP 和 HTML 文件的统计
   * 保存统计源代码的文件夹路径
 
