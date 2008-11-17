@@ -1,11 +1,11 @@
-#summary SourceCounter english homepage.
+#summary SourceCounter homepage.
 #labels Featured
 
 = Introduction =
 
 SourceCounter software is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 20 pre-defined!) of text or source files and report them to you in a quick summary.
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-en.png]
 
 = Download =
 
