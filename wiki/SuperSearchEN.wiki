@@ -1,4 +1,4 @@
-#SuperSearch english homepage.
+#summary SuperSearch homepage.
 
 = Introduction =
 
