@@ -5,10 +5,10 @@
 プログラムのコード行、空白行、コメント行に分けてカウントし、結果はカンマ区切り
 テキストファイル（CSV）として保存できます。
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
 
 = ダウンロード(Download) =
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.14.75.7z]
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.22.4.7z]
 
 = 機能一覧(Feature) =
 サポートしているプログラミング言語は以下の通りです。
@@ -18,7 +18,8 @@
  * VB.NET、VB（.frm含む）
  * Delphi（.dfm含む）
  * JSP
- * ASP.NET、ASP
+ * ASPX、ASP
+ * PHP
  * HTML
  * SQL
 
