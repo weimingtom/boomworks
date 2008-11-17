@@ -14,6 +14,9 @@ Unicode 版主要针对使用外文环境的用户，这个版本可是让你在
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pcte-3.2.zip]
 
 = 主要功能和特点(Features) =
+
+[http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
+
   * 8 种时间指定方式（倒计时/ 伴随执行/ 具体时间/ 每时/ 每天/ 每周/ 每月/ 每年）
   * 定时关机 
   * 定时待机（需注册）
@@ -35,8 +38,6 @@ Unicode 版主要针对使用外文环境的用户，这个版本可是让你在
   * 限制系统中只能运行一个“PC定时关机精灵” 
   * 最小化时自动变为托盘图标
   * 托盘图标的右键菜单（立即执行：关机、休眠、关闭显示器、重启动、注销） 
-
-[http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
 
 = 最新版本发布(What's New) =
   * PC定时关机精灵( PCTaskTimer ) 2.1.2.0 版 ！- Boom 2006-4-6
