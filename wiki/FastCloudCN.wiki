@@ -1,5 +1,4 @@
 #summary 快速云计算平台 - FastCloud - 中文主页。
-#labels Featured,Phase-Design
 
 = 介绍(Introduction) =
 
