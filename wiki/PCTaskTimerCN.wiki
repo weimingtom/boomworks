@@ -8,6 +8,8 @@
 
 Unicode 版主要针对使用外文环境的用户，这个版本可是让你在英文、日文等外文的 Windows 系统下能正常地同时显示、输入外文和中文。
 
+[http://boomworks.googlecode.com/files/pcte-3.2.zip http://share.8844.com/eWebEditor/uploadfile/20070124231855384.jpg]
+
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
 
 = 下载地址(Download) =
