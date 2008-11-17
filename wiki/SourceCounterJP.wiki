@@ -1,4 +1,5 @@
 #summary ソースカウンタ － SourceCounter のホームページです。
+#labels Featured
 
 = ソフトの紹介(Introduction) =
 プログラムのソースコードのステップ数(行数)をカウントするソフトです。
