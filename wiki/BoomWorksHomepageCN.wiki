@@ -1,5 +1,3 @@
-#summary BoomWorks.Net 中文主页。
-
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
 = 作品列表(Works) =
