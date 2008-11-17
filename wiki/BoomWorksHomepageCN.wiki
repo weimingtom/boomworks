@@ -1,6 +1,5 @@
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
-= 作品列表(Works) =
  * 桌面自动整理助手 - 自动化整理桌面放置的文件到预先设定好的文件夹。
 
  * [SourceCounterCN 源代码统计工具] - 免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。
@@ -9,6 +8,6 @@
 
  * [PCTaskTimerCN PC定时执行专家] - 功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。有定时“提醒/关机/待机/休眠/重启/注销/关闭显示器/清空回收站 /执行屏幕保护/执行DOS命令”等功能。提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。 
 
-= 联系我们(Contact) =
+== 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
  * [mailto:boomworks@hotmail.com boomworks@hotmail.com] 
