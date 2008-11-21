@@ -1,11 +1,12 @@
 #summary Homepage of BoomWorks.Net(Since 1999).
 
+[http://www.boomworks.net/ You can get my latest version software from here.]
+
 = [BoomWorksHomepageCN 中文主页] =
 = [BoomWorksHomepageEN English version homepage] =
 = [BoomWorksHomepageJP 日本語] =
 
-You can get my latest version software from here 
-[http://www.boomworks.net/ Download].
+
 
 Thank you to visit this place. 
 Email:boomworks@gmail.com
