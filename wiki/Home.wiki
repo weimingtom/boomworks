@@ -4,5 +4,7 @@
 = [BoomWorksHomepageEN English version homepage] =
 = [BoomWorksHomepageJP 日本語] =
 
+= [http://www.boomworks.net/ Download] =
+
 Thank you to visit this place. 
 Email:boomworks@gmail.com
