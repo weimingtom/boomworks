@@ -2,8 +2,7 @@
 
 = 简介(Introduction) =
 
-Add your content here.
-
+自动化整理桌面放置的文件到预先设定好的文件夹。 
 
 = 功能详细(Details) =
 
