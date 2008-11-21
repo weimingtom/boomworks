@@ -1,13 +1,14 @@
 #summary Homepage of BoomWorks.Net(Since 1999).
 #labels Featured
+[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
+=== You can get latest version software from [http://down.boomworks.net/ here]. ===
 
-== [http://down.boomworks.net/ You can get latest version software from here.] ==
 
 = [BoomWorksHomepageCN 中文主页] =
 = [BoomWorksHomepageEN English version homepage] =
 = [BoomWorksHomepageJP 日本語] =
 
 
-
+----
 Thank you to visit this place. 
 Email:boomworks@gmail.com
