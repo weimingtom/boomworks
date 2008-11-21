@@ -1,4 +1,5 @@
 #summary Homepage of BoomWorks.Net(Since 1999).
+#labels Featured
 
 == [http://www.boomworks.net/ You can get latest version software from here.] ==
 
