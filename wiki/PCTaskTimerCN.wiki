@@ -50,4 +50,5 @@ Unicode 版主要针对使用外文环境的用户，这个版本可是让你在
     * 功能细化为[日程提醒/系统功能/定期备份/定时关闭应用程序]
 
 = 联系我们(Contact) =
-  * E-mail: Boom<boomworks@hotmail.com>
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
