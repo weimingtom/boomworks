@@ -1,11 +1,11 @@
 #summary BoomWorks.Net left side bar.
 #labels Deprecated
+
  * [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo_s.gif]
- * [Home Home] - [BoomWorksHomepageCN 中文主页] - [日本語]
+ * [Home Home] - [BoomWorksHomepageCN 中文] - [BoomWorksHomepageJP 日本語]
  * [http://down.boomworks.net Download] - [http://down.boomworks.net 下载] - [http://down.boomworks.net ダウンロード]
  * [http://bbs.boomworks.net BBS] - bbs.boomworks.net
 
 ----
- * _ [mailto:boomworks@gmail.com (C) 1999 - 2009 B O O M (BoomWorks.Net)] _
-
+ * _ [mailto:boomworks@gmail.com (C)1999-2009 BoomWorks.Net], Thank you to visit this place. _
  * [http://www4.clustrmaps.com/user/48f6f616 http://www4.clustrmaps.com/stats/maps-no_clusters/www.boomworks.net--thumb.jpg]
