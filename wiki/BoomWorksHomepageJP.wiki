@@ -6,4 +6,5 @@
  * [PCTaskTimerJP PCタスクタイマー]
 
 = 連絡先 =
- * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
