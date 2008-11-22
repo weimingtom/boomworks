@@ -25,4 +25,5 @@
  * SQL
 
 = 連絡先(Contact) =
- * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
