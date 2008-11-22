@@ -1,4 +1,5 @@
 #summary BoomWorks.Net english homepage.
+[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
 = Works list =
  * [SourceCounterEN SourceCounter]
