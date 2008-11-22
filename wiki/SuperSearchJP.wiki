@@ -3,8 +3,6 @@
 = 紹介 =
 
 [http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_1.gif]
-[http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_2.gif]
-
 
 = ダウンロード =
 
@@ -12,7 +10,7 @@
 
 = 詳細機能 =
 
-[http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
+[http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_2.gif]
 
 = 連絡先 =
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
