@@ -1,7 +1,7 @@
 #summary BoomWorks.Net の日本語のホームページです。
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
- * [SourceCounterJP ソースコードカウンタ]
+ * [SourceCounterJP ソースカウンター]
  * [SuperSearchJP スープサーチ]
  * [PCTaskTimerJP PCタスクタイマー]
 
