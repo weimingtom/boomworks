@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary PCタスクタイマー - PCTaskTimer - 日本語のホームページ｡
 
 = 紹介 =
 
