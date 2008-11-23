@@ -12,4 +12,9 @@
  * 完整的管理流程： 支持对云计算的要素（VM）的全生命周期的管理（包括： 创建、变更、返还、删除）
  * 全面支持主流的操作系统（Windows、Linux、FreeBSD、Solaris etc.）
  * 友好的用户界面： 基于.Net Winform的C/S架构，具有良好的可扩展性
+
+= 联系我们(Contact) =
+
+ * [mailto:boomworks@gmail.com boomworks@gmail.com]
+ * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
  
