@@ -2,7 +2,7 @@
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
  * [SourceCounterJP ソースカウンター]
- * [SuperSearchJP スープサーチ]
+ * [SuperSearchJP スパーサーチ]
  * [PCTaskTimerJP PCタスクタイマー]
 
 = 連絡先 =
