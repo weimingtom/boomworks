@@ -44,4 +44,5 @@
   * 保存统计源代码的文件夹路径
 
 = 联系我们(Contact) =
- * E-mail: Boom<boomworks@hotmail.com>
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
