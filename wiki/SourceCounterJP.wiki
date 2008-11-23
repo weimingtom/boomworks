@@ -1,4 +1,4 @@
-#summary ソースカウンタ － SourceCounter のホームページです。
+#summary ソースカウンター - SourceCounter - のホームページです。
 #labels Featured
 
 = ソフトの紹介(Introduction) =
