@@ -1,8 +1,11 @@
 #summary 桌面整理助手 - DesktopAssistant - 中文主页。
+#labels Featured
 
 = 简介(Introduction) =
 
 自动化整理桌面放置的文件到预先设定好的文件夹。 
+
+[http://down.boomworks.net/ http://boomworks.googlecode.com/files/DesktopAssistant-about-en-1.0.png]
 
 = 功能详细(Details) =
 
