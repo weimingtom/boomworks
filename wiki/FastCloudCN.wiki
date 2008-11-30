@@ -8,8 +8,6 @@
   # 由于流程化的申请、批准等工作流的定义，可以透明地管理企业IT资产的使用。
   # 由于具有良好的用户界面，易于学习和使用，降低IT部门人员的学习新系统的成本。
 
-[http://boomworks.googlecode.com/files/fastcloud-intro-ppt.png http://boomworks.googlecode.com/files/fastcloud-intro-ppt.png]
-
 = 详细(Details) =
 
 快速云计算平台（FastCloud）具有一下的功能特点：
@@ -18,6 +16,8 @@
   * 完整的管理流程： 支持对 VM 的全生命周期的管理（包括： 创建、变更、返还、删除）
   * 全面支持： 支持主流的操作系统（Windows、Linux、FreeBSD、Solaris etc.）
   * 友好的用户界面： 基于.Net Winform 的 C/S 架构，具有良好的操作性
+
+  * [http://www.boomworks.net http://boomworks.googlecode.com/files/fastcloud-intro-ppt.png]
 
 = 联系我们(Contact) =
 
