@@ -8,6 +8,8 @@
   # 由于流程化的申请、批准等工作流的定义，可以透明地管理企业IT资产的使用。
   # 由于具有良好的用户界面，易于学习和使用，降低IT部门人员的学习新系统的成本。
 
+[http://boomworks.googlecode.com/files/fastcloud-intro-ppt.png http://boomworks.googlecode.com/files/fastcloud-intro-ppt.png]
+
 = 详细(Details) =
 
 快速云计算平台（FastCloud）具有一下的功能特点：
