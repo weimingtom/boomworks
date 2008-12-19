@@ -1,6 +1,6 @@
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
- * [http://boomworks.googlecode.com/files/timer-1.0.7z Timer.exe] 免费的定时器小工具。
+ * [http://boomworks.googlecode.com/files/timer-1.0.zip Timer.exe] 免费的定时器小工具。
 
  * [DesktopAssistantCN 桌面整理助手] - 自动化整理桌面放置的文件到预先设定好的文件夹。
 
