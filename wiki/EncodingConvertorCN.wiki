@@ -1,4 +1,4 @@
-#summary 文件编码转换工具(EncodingConvertor) - 中文主页.
+#summary 文件编码转换工具 - EncodingConvertor - 中文主页.
 
 = 介绍（Introduction) =
 
