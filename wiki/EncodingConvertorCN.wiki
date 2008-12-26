@@ -13,5 +13,4 @@ EncodingConvertor是一个功能强大的文件编码（Encoding）转换工具�
 
 = Details =
 
-Add your content here.  Format your content with:
   * [http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip http://boomworks.googlecode.com/files/EncodingConverter-main-1.0.png]
