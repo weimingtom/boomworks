@@ -6,8 +6,11 @@ EncodingConvertor是一个功能强大的文件编码（Encoding）转换工具�
 
  * 能够批量、快速地转换大多数文件的格式。
  * 支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
- * [http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip http://boomworks.googlecode.com/files/EncodingConverter-main-cn-1.0.png]
 
 = 下载（Download） = 
 
  [http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip  http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip]
+
+= 截图（Screenshot） =
+
+[http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip http://boomworks.googlecode.com/files/EncodingConverter-main-cn-1.0.png]
