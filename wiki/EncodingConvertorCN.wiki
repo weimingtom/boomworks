@@ -9,11 +9,9 @@ EncodingConvertor是一个功能强大的文件编码（Encoding）转换工具�
 
 = 下载（Download） = 
 
- [http://down.boomworks.net http://down.boomworks.net]
+ [http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip  http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip]
 
 = Details =
 
 Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * [http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip http://boomworks.googlecode.com/files/EncodingConverter-1.0.zip]
