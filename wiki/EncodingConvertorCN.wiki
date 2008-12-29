@@ -1,8 +1,9 @@
-#summary 文件编码转换工具 - EncodingConvertor - 中文主页.
+#summary 文件编码转换工具 - EncodingConverter - 中文主页.
+#labels Featured
 
 = 介绍（Introduction) =
 
-EncodingConvertor是一个基于.NET 2.0平台的功能强大的文本文件编码（Encoding）转换工具。 
+EncodingConverter是一个功能强大的文本文件编码（Encoding）转换工具。 
 
  * 能够批量、快速地转换大多数文本文件的编码。
  * 支持40多种编码（Encoding）类型。比如：GB2312的编码文件转换到UTF-8编码等等。
