@@ -1,3 +1,4 @@
+#labels Featured
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
 === 大众软件 ===
@@ -10,10 +11,11 @@
  * [http://boomworks.googlecode.com/files/timer-1.0.zip Timer.exe] - 免费的计时器小工具。
 
 === 编程开发相关工具 ===
+ * [SourceCounterCN 源代码统计工具] - 免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。[http://down.boomworks.net/ http://www.shermusic.com/new/images/new.png][http://down.boomworks.net/ http://www.williamlong.info/logo/free.gif]
 
  * [EncodingConvertorCN 文件编码转换工具] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
- * [SourceCounterCN 源代码统计工具] - 免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。
+
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
