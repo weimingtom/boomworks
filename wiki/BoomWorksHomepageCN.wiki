@@ -1,7 +1,7 @@
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
 === 大众软件 ===
- * [DesktopAssistantCN 桌面整理助手][http://down.boomworks.net/ http://www.shermusic.com/new/images/new.png][http://down.boomworks.net/ http://www.williamlong.info/logo/free.gif] - 自动化整理桌面放置的文件到预先设定好的文件夹。
+ * [DesktopAssistantCN 桌面整理助手] - 自动化整理桌面放置的文件到预先设定好的文件夹。[http://down.boomworks.net/ http://www.shermusic.com/new/images/new.png][http://down.boomworks.net/ http://www.williamlong.info/logo/free.gif]
 
  * [SuperSearchCN 超级网搜] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。 
 
