@@ -1,7 +1,6 @@
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
- * [DesktopAssistantCN 桌面整理助手][http://down.boomworks.net/ http://www.williamlong.info/logo/free.gif] 
-- 自动化整理桌面放置的文件到预先设定好的文件夹。
+ * [DesktopAssistantCN 桌面整理助手][http://down.boomworks.net/ http://www.shermusic.com/new/images/new.png][http://down.boomworks.net/ http://www.williamlong.info/logo/free.gif] - 自动化整理桌面放置的文件到预先设定好的文件夹。
 
  * [EncodingConvertorCN 文件编码转换工具][http://down.boomworks.net/ http://www.shermusic.com/new/images/new.png] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
