@@ -3,7 +3,7 @@
 
 == 大众软件 ==
 
-  * [SuperSearchCN 超级网搜(SuperSearch)] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
+  * [SuperSearchCN 超级网搜(SuperSearch)][http://images.blu-ray.com/download/download-icon.gif http://images.blu-ray.com/download/download-icon.gif] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
   * [DesktopAssistantCN 桌面整理助手(DesktopAssistant)][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - 自动化整理桌面放置的文件到预先设定好的文件夹。
 
