@@ -1,6 +1,7 @@
 #summary BoomWorks.Net の日本語のホームページです。
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
+ * [DesktopAssistantJP デスクトップ アシスタント] - デスクトップのファイルを事前設定したルールに従って、分類整理するツールです。[http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg]
  * [SourceCounterJP ソースカウンター]
  * [SuperSearchJP スパーサーチ]
  * [PCTaskTimerJP PCタスクタイマー]
