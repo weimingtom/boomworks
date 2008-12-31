@@ -1,4 +1,4 @@
-#summary 源代码统计工具 - SourceCounter - 主页。
+#summary 源代码统计工具(SourceCounter) - 主页。
 #labels Featured,Phase-Design
 
 = 简介(Introduction) =
