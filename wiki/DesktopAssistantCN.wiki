@@ -1,4 +1,4 @@
-#summary 桌面整理助手 - DesktopAssistant - 中文主页 (not IconKeeper)。
+#summary 桌面整理助手(DesktopAssistant) - 中文主页 (not IconKeeper)。
 #labels Featured
 
 = 简介(Introduction) =
