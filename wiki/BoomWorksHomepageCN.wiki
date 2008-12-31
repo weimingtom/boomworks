@@ -17,6 +17,6 @@
 
  * [EncodingConvertorCN 文件编码转换工具] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
-= 联系我们(Contact) =
+== 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
  * [mailto:boomworks@hotmail.com boomworks@hotmail.com] 
