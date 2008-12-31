@@ -2,8 +2,10 @@
 #labels Deprecated
 
  * [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo_s.gif]
+----
  * [BoomWorksHomepageEN English] - [BoomWorksHomepageCN 中文] - [BoomWorksHomepageJP 日本語]
  * [http://down.boomworks.net Download] - [http://down.boomworks.net 下载] - [http://down.boomworks.net ダウンロード]
+----
  * [http://bbs.boomworks.net BBS]
 
 ----
