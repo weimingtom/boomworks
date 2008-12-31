@@ -5,7 +5,7 @@
 
   * [SuperSearchCN 超级网搜(SuperSearch)] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
-  * [DesktopAssistantCN 桌面整理助手(DesktopAssistant) http://srccounter.googlecode.com/files/img-new.png ][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - 自动化整理桌面放置的文件到预先设定好的文件夹。
+  * [DesktopAssistantCN 桌面整理助手(DesktopAssistant)][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - 自动化整理桌面放置的文件到预先设定好的文件夹。
 
   * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。有定时“提醒/关机/待机/休眠/重启/注销/关闭显示器/清空回收站 /执行屏幕保护/执行DOS命令”等功能。提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。
 
