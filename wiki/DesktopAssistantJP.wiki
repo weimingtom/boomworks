@@ -1,0 +1,27 @@
+#summary デスクトップ アシスタント(DesktopAssistant) - ホームページ。
+
+= 機能概要(Introduction) =
+
+Add your content here.
+
+
+= 機能詳細(Details) =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+= ダウンロード(Download)= 
+
+[http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z]
+
+= スクリーンショット(Screenshots) =
+
+  * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-main-jp-1.2.png]
+
+  * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-ruledlg-jp-1.2.png]
+
+= 联系我们(Contact) =
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
