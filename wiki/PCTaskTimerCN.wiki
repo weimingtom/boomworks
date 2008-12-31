@@ -1,19 +1,17 @@
 #summary PC定时执行专家(PCTaskTimer) - 中文主页。
 #labels Featured
 
-= 简介(Introduction) =
-功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。有定时“提醒/关机/待机/休眠/重启/注销/关闭显示器/清空回收站 /执行屏幕保护/执行DOS命令”等功能。提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。
+== 简介(Introduction) ==
+功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。有定时“提醒/关机/待机/休眠/重启/注销/关闭显示器/清空回收站 /执行屏幕保护/执行DOS命令”等功能。提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。全面支持Unicode可在英文、日文等外文的 Windows 系统下能正常地使用此软件。
 
 无需安装，无使用时间限制，欢迎下载试用。注意未注册用户不能使用全部功能，需要注册才能使用的功能请参考“主要功能和特点”。付费用户可享受技术支持和升级服务。
 
-Unicode 版主要针对使用外文环境的用户，这个版本可是让你在英文、日文等外文的 Windows 系统下能正常地同时显示、输入外文和中文。
-
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://share.8844.com/eWebEditor/uploadfile/20070124231855384.jpg]
 
-= 下载地址(Download) =
+== 下载地址(Download) ==
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pcte-3.2.zip]
 
-= 主要功能和特点(Features) =
+== 主要功能和特点(Features) ==
 
 [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
 
@@ -39,7 +37,7 @@ Unicode 版主要针对使用外文环境的用户，这个版本可是让你在
   * 最小化时自动变为托盘图标
   * 托盘图标的右键菜单（立即执行：关机、休眠、关闭显示器、重启动、注销） 
 
-= 最新版本发布(What's New) =
+== 最新版本发布(What's New) ==
   * PC定时关机精灵( PCTaskTimer ) 2.1.2.0 版 ！- Boom 2006-4-6
     * 在任务列表里实现按列排序
 
@@ -49,6 +47,6 @@ Unicode 版主要针对使用外文环境的用户，这个版本可是让你在
     * 任务分类过滤
     * 功能细化为[日程提醒/系统功能/定期备份/定时关闭应用程序]
 
-= 联系我们(Contact) =
+== 联系我们(Contact) ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
