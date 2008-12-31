@@ -1,6 +1,6 @@
 #summary PC关机精灵(PCTimer) - 主页。
 
-= Introduction =
+== 简介(Introduction) ==
 
 免费、易用的定时关机软件。具有定时“提醒/关机/待机/休眠/重启/注销”等功能。 
 
