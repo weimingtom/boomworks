@@ -8,5 +8,5 @@
 
 [http://boomworks.googlecode.com/files/PCTimer-1.0.zip http://boomworks.googlecode.com/files/PCTimer-1.0.zip]
 
-  * [http://boomworks.googlecode.com/files/pctimer-main-cn-1.0.png http://boomworks.googlecode.com/files/pctimer-main-cn-1.0.png]
-  * [http://boomworks.googlecode.com/files/pctimer-about-cn-1.0.png http://boomworks.googlecode.com/files/pctimer-about-cn-1.0.png]
+  * [http://boomworks.googlecode.com/files/PCTimer-1.0.zip http://boomworks.googlecode.com/files/pctimer-main-cn-1.0.png]
+  * [http://boomworks.googlecode.com/files/PCTimer-1.0.zip http://boomworks.googlecode.com/files/pctimer-about-cn-1.0.png]
