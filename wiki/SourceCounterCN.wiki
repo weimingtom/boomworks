@@ -1,17 +1,17 @@
 #summary 源代码统计工具(SourceCounter) - 主页。
 #labels Featured,Phase-Design
 
-= 简介(Introduction) =
+== 简介(Introduction) ==
 
 免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、PHP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
 
-= 下载地址(Download) =
+== 下载地址(Download) ==
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z]
 
-= 主要功能和特点(Features) =
+== 主要功能和特点(Features) ==
 
  # 统计速度快、准确
  # 支持对 20 多种代码格式进行统计
@@ -23,7 +23,7 @@
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
 
-= 主要更新(Update) =
+== 主要更新(Update) ==
  * 2.1.24.11 - B O O M 2008/11/24
   * 修正不能统计 .C 扩展名代码问题
   * 追加关于对话框 boomworks.net 连接
@@ -47,6 +47,6 @@
   * 支持对 ASP 和 HTML 文件的统计
   * 保存统计源代码的文件夹路径
 
-= 联系我们(Contact) =
+== 联系我们(Contact) ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
