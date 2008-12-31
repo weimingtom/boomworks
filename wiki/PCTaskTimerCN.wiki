@@ -1,4 +1,4 @@
-#summary PC定时执行专家 - PCTaskTimer - 中文主页。
+#summary PC定时执行专家(PCTaskTimer) - 中文主页。
 #labels Featured
 
 = 简介(Introduction) =
