@@ -11,7 +11,7 @@
 
   * [PCTimerCN PC关机精灵] - 免费、易用、绿色的定时关机软件。具有定时“提醒/关机/待机/休眠/重启/注销”等功能。
 
-  * [http://boomworks.googlecode.com/files/timer-1.0.zip Timer.exe] - 免费、绿色的计时器小工具。
+  * [http://boomworks.googlecode.com/files/timer-1.0.zip 计时器(Timer)] - 免费、绿色的计时器小工具。
 
 == 编程开发相关工具 ==
 
