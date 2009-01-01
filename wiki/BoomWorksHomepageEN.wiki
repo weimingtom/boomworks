@@ -1,9 +1,13 @@
-#summary BoomWorks.Net english homepage.
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
+ 
+  * [DesktopAssistantEN DesktopAssistant] - A tool for Desktop file categorization. This tool can categorize files to folders by using the role defined beforehand. The folders that stores the files is automatically created.
 
- * [SourceCounterEN SourceCounter]
- * [PCTaskTimerEN PCTaskTimer]
- * [SuperSearchEN SuperSearch]
+  * [SourceCounterEN SourceCounter] - SourceCounter is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 20 pre-defined!) of text or source files and report them to you in a quick summary.
 
-= Contact =
+  * [PCTaskTimerEN PCTaskTimer] - Multi-task execute tool.
+
+  * [SuperSearchEN SuperSearch] - Multi-engine search tool. 
+
+== Contact ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
