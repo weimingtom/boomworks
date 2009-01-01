@@ -26,6 +26,12 @@
 
   * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-about-cn-1.2.png]
 
+== 更新(Change) ==
+
+  * 1.2.12.18 - boom 2009/1/1
+    * 修正规则复选框、单选框选择无效的问题
+    * 调整结果显示列的顺序
+
 == 联系我们(Contact) ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
