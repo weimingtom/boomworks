@@ -1,4 +1,3 @@
-#summary BoomWorks.Net の日本語のホームページです。
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
  * [DesktopAssistantJP デスクトップ アシスタント] - デスクトップのファイルを事前設定したルールに従って、分類整理するツールです。このツールは事前で設定した分類整理ルールを使って、ファイルを分類整理することができます。分類したファイルの格納先のフォルダは自動的に作成します。[http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg]
@@ -6,8 +5,9 @@
  * [SourceCounterJP ソースカウンター] - プログラムのソースコードのステップ数(行数)をカウントするソフトです。 プログラムのコード行、空白行、コメント行に分けてカウントし、結果はカンマ区切り テキストファイル（CSV）として保存できます。[http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] 
 
  * [SuperSearchJP スパーサーチ]
+
  * [PCTaskTimerJP PCタスクタイマー]
 
-= 連絡先 =
+== 連絡先 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
