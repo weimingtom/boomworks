@@ -11,7 +11,7 @@
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z]
 
-== 主要功能和特点(Features) ==
+== 主要功能(Features) ==
 
  # 统计速度快、准确
  # 支持对 20 多种代码格式进行统计
@@ -23,7 +23,7 @@
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
 
-== 主要更新(Update) ==
+== 更新(Update) ==
  * 2.1.24.11 - B O O M 2008/11/24
   * 修正不能统计 .C 扩展名代码问题
   * 追加关于对话框 boomworks.net 连接
