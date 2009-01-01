@@ -18,13 +18,13 @@
 
 == 下载(Download)== 
 
-[http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z]
+[http://boomworks.googlecode.com/files/DesktopAssistant-1.2.12.18.7z http://boomworks.googlecode.com/files/DesktopAssistant-1.2.12.18.7z]
 
 == 截图(Screenshots) ==
 
-  * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-main-cn-1.2.png]
+  * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.12.18.7z http://boomworks.googlecode.com/files/DesktopAssistant-main-cn-1.2.png]
 
-  * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.1.9.7z http://boomworks.googlecode.com/files/DesktopAssistant-about-cn-1.2.png]
+  * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.12.18.7z http://boomworks.googlecode.com/files/DesktopAssistant-about-cn-1.2.png]
 
 == 更新(Change) ==
 
