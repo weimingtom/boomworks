@@ -17,7 +17,7 @@
   * 自定义规则进行自动分类功能
     * 按扩展名 
     * 按文件名包含
-  * 桌面文件夹大小分析
+  * ~~桌面文件夹大小分析（开发中……）~~
   * ~~桌面右键菜单扩展，可以直接通过桌面的右键菜单来自动整理桌面（开发中……）~~
 
   * [http://boomworks.googlecode.com/files/DesktopAssistant-1.2.12.18.7z http://boomworks.googlecode.com/files/DesktopAssistant-main-cn-1.2.png]
