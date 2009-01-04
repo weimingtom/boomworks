@@ -11,17 +11,15 @@
 
 == 主要功能(Features) ==
 
- # 统计速度快、准确
- # 支持对 20 多种代码格式进行统计
- # 支持多目录和包含子目录的统计方式
- # 能够计算代码的人月数和成本
- # 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
- # 支持多国语言界面（英文、简体中文、繁体中文、日语等）
- # 支持自由选择要统计的代码格式
-
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
-
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
+  * 统计速度快、准确
+  * 支持对 20 多种代码格式进行统计
+  * 支持多目录和包含子目录的统计方式
+  * 能够计算代码的人月数和成本
+  * 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
+  * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
+  * 支持自由选择要统计的代码格式
+  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
+  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
 
 == 更新(Update) ==
  * 2.1.24.11 - B O O M 2008/11/24
