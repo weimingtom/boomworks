@@ -5,8 +5,6 @@
 
 免费的源代码行数统计工具，支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、PHP、HTML 等项目的代码行数、工数和成本进行统计，并能保存统计的结果。
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
-
 == 下载地址(Download) ==
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z]
@@ -20,6 +18,8 @@
  # 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
  # 支持多国语言界面（英文、简体中文、繁体中文、日语等）
  # 支持自由选择要统计的代码格式
+
+[http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
 
