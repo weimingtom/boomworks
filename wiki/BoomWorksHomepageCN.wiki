@@ -19,9 +19,7 @@
 
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
-== 企业相关软件 ==
 
-  * [FastCloudCN 快速云计算平台(FastCloud)][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png] - 快速云计算构建平台。能够批量、快速、流程化地构建出云计算所需要的虚拟机（VM: Virtual machine）。本系统具有友好的用户界面，实现了完整的管理流程，方便易用，适用于中小企业的云计算环境的构建和管理，不需要高的投入（如：购买大型的存储），就可以满足企业客户的基本的云计算需求。 
 
 
 == 联系我们(Contact) ==
