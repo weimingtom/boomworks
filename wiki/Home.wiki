@@ -1,5 +1,5 @@
 #summary Homepage of BoomWorks.Net(Since 1999).
-#labels Featured
+#labels Deprecated
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 === You can get latest version software from [http://down.boomworks.net/ here]. ===
 
