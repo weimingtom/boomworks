@@ -4,6 +4,8 @@
 
 演示助手是一款让您可以随意在屏幕上画画的软件。
 
+== 下载 ==
+[http://boomworks.googlecode.com/files/Shower.rar http://boomworks.googlecode.com/files/Shower.rar]
 == 用途 ==
 
 用于为他人做系统演示的时候提供鲜亮持久的指示作用,相当于在您的电脑屏幕上加了一层透明膜,您可以在该透明膜上绘制任何您想绘制的图形,以便于为他人讲解您的创意或者工作成果. 
