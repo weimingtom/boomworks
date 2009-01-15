@@ -4,6 +4,7 @@
 == 简介 ==
 
 演示助手是一款让您可以随意在屏幕上画画的软件。
+
 http://boomworks.googlecode.com/files/ShowHelper-Menu-cn-1.0.PNG
 
 == 下载 ==
