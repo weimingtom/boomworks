@@ -1,3 +1,4 @@
+#labels Deprecated
 [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
  
   * [DesktopAssistantEN DesktopAssistant][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - A tool for Desktop file categorization. This tool can categorize files to folders by using the role defined beforehand. The folders that stores the files is automatically created.
