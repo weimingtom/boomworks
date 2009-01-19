@@ -40,8 +40,9 @@ showhelper是一款让您可以随意在屏幕上画画的软件.
 
 
 == 下载 ==
+
+[http://boomworks.googlecode.com/files/ShoweHelper.rar]
 [http://sites.google.com/site/winwhilse/Home/ShoweHelper.rar?attredirects=0]
-[http://boomworks.googlecode.com/files/ShoweHelperCN%20.rar]
 
 == 联系我们(Contact) ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
