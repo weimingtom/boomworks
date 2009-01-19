@@ -1,7 +1,7 @@
 #summary 演示助手的中文主页。
 #labels 演示助手,showhelper,屏幕,画图,画画,绘制
 
-
+http://boomworks.googlecode.com/files/ShowHelper-Menu-cn-1.0.PNG
 
 == 简介 ==
 
