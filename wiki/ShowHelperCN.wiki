@@ -22,9 +22,6 @@ showhelper是一款让您可以随意在屏幕上画画的软件.
 请大家多多反馈好的建议和意见,我会不断完善该软件.
 
 
-其他下载地址
-[http://boomworks.googlecode.com/files/ShoweHelperCN%20.rar]
-
 操作使用说明：
 
 1,  点击 showhelper.exe运行之后，系统会以小图标的形式隐藏在桌面右下角的状态栏中；
