@@ -41,8 +41,8 @@ showhelper是一款让您可以随意在屏幕上画画的软件.
 5,  您可以通过”画笔选择“，“画笔粗细”和“颜色托盘” 定制您需要绘制的图形。
 
 == 下载 ==
-
 [http://boomworks.googlecode.com/files/ShoweHelper.rar]
+
 [http://sites.google.com/site/winwhilse/Home/ShoweHelper.rar?attredirects=0]
 
 == 联系我们(Contact) ==
