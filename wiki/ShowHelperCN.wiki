@@ -6,7 +6,8 @@ http://boomworks.googlecode.com/files/ShowHelper-Menu-cn-1.0.PNG
 == 简介 ==
 
 *演示助手 ShowHelper1.0*
-关键字: 演示助手  showhelper  屏幕绘制  画图  画画 
+
+关键字: 演示助手  showhelper  屏幕绘制  画图  画画
 
 *showhelper是一款让您可以随意在屏幕上画画的软件.*
 
