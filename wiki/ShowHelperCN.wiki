@@ -30,11 +30,9 @@ http://sites.google.com/site/winwhilse/_/rsrc/1232365906212/Home/ShowHelper-Menu
   # 您可以通过“_*画笔选择*_”，“_*画笔粗细*_”和“_*颜色托盘*_” 定制您需要绘制的图形。
 
 == 下载 ==
-[http://boomworks.googlecode.com/files/ShoweHelper.rar]
-
-[http://sites.google.com/site/winwhilse/Home/ShoweHelper.rar?attredirects=0]
+  * [http://boomworks.googlecode.com/files/ShoweHelper.rar]
+  * [http://sites.google.com/site/winwhilse/Home/ShoweHelper.rar?attredirects=0]
 
 == 联系我们(Contact) ==
   * [mailto:winwhilse@gmail.com winwhilse@gmail.com]
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
-  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
