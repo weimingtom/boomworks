@@ -19,7 +19,7 @@ http://boomworks.googlecode.com/files/ShowHelper-Menu-cn-1.0.PNG
 
 运行环境: 支持win2000/winxp  + .netFrameWork2.0
 
-支持投影仪演示. 但目前还未能支持netmeeting. 预计在后续发布的2.0里面正式集成对netmeeting的支持!敬请期待!
+支持投影仪演示. 预计在后续发布的2.0里面正式集成对netmeeting的支持!敬请期待!
 
 *请大家多多反馈好的建议和意见,我会不断完善该软件.*
 
