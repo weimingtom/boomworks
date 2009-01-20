@@ -24,7 +24,7 @@ http://boomworks.googlecode.com/files/ShowHelper-Menu-cn-1.0.PNG
 *请大家多多反馈好的建议和意见,我会不断完善该软件.*
 
 
-*使用说明：
+使用说明：
 
 # 点击 showhelper.exe运行之后，系统会以小图标的形式隐藏在桌面右下角的状态栏中；
 
