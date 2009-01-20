@@ -5,23 +5,23 @@ http://boomworks.googlecode.com/files/ShowHelper-Menu-cn-1.0.PNG
 
 == 简介 ==
 
-演示助手1.0
+*演示助手 ShowHelper 1.0*
 关键字: 演示助手  showhelper  屏幕绘制  画图  画画 
 
-showhelper是一款让您可以随意在屏幕上画画的软件.
+*showhelper是一款让您可以随意在屏幕上画画的软件.*
 
-*用途: 用于为他人做系统演示的时候提供鲜亮持久的指示作用,相当于在您的电脑屏幕上加了一层透明膜,您可以在该透明膜上绘制任何您想绘制的图形,以便于为他人讲解您的创意或者工作成果.
+用途: 用于为他人做系统演示的时候提供鲜亮持久的指示作用,相当于在您的电脑屏幕上加了一层透明膜,您可以在该透明膜上绘制任何您想绘制的图形,以便于为他人讲解您的创意或者工作成果.
 
-*亮点: 该软件的演示功能不依赖于任何软件, 和您要演示的成果没有任何依赖或者加载关系. 同时该软件不会占用任何注册表键位.
+亮点: 该软件的演示功能不依赖于任何软件, 和您要演示的成果没有任何依赖或者加载关系. 同时该软件不会占用任何注册表键位.
 您可以选择轨迹或者矩形的图形方式,同时也可以定制画笔的粗细和颜色,十分方便.
 
-*程序大小：100 K
+程序大小：100 K
 
-*运行环境: 支持win2000/winxp  + .netFrameWork2.0
+运行环境: 支持win2000/winxp  + .netFrameWork2.0
 
-*支持投影仪演示. 但目前还未能支持netmeeting. 预计在后续发布的2.0里面正式集成对netmeeting的支持!敬请期待!
+支持投影仪演示. 但目前还未能支持netmeeting. 预计在后续发布的2.0里面正式集成对netmeeting的支持!敬请期待!
 
-*请大家多多反馈好的建议和意见,我会不断完善该软件.
+请大家多多反馈好的建议和意见,我会不断完善该软件.
 
 
 使用说明：
@@ -45,5 +45,6 @@ showhelper是一款让您可以随意在屏幕上画画的软件.
 [http://sites.google.com/site/winwhilse/Home/ShoweHelper.rar?attredirects=0]
 
 == 联系我们(Contact) ==
+  * [mailto:winwhilse@gmail.com winwhilse@gmail.com]
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
