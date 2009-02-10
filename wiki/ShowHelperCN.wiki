@@ -3,13 +3,13 @@
 
 == 简介 ==
 
-演示助手 `ShowHelper 1.0`是一款让您可以随意在屏幕上画画的软件。
+演示助手 `ShowHelper 1.6`是一款让您可以随意在屏幕上画画的软件。
 
 http://sites.google.com/site/winwhilse/_/rsrc/1232365906212/Home/ShowHelper-Menu-cn.PNG
 
 == 下载 ==
   * [http://boomworks.googlecode.com/files/ShoweHelper.rar]
-  * [http://sites.google.com/site/winwhilse/Home/ShoweHelper.rar?attredirects=0]
+  * [http://sites.google.com/site/winwhilse/Home/showhelper-1-6/ShoweHelper.rar?attredirects=0]
 
 == 功能详细 ==
 
