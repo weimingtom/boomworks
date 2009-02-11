@@ -3,7 +3,7 @@
 
 == 简介 ==
 
-演示助手 *ShowHelper 是一款让您可以随意在屏幕上画画的软件。
+演示助手 *ShowHelpe是一款让您可以随意在屏幕上画画的软件。
 当前最新发布版本为1.6
 
 http://sites.google.com/site/winwhilse/_/rsrc/1232365906212/Home/ShowHelper-Menu-cn.PNG
