@@ -9,7 +9,7 @@
 
 == 下载 ==
   * [http://boomworks.googlecode.com/files/ShoweHelper-1.6.0.0.7z http://boomworks.googlecode.com/files/ShoweHelper-1.6.0.0.7z]
-  * [http://sites.google.com/site/winwhilse/Home/showhelper-1-6/ShoweHelper.rar?attredirects=0]
+  * [http://sites.google.com/site/winwhilse/Home/showhelper-1-6/ShoweHelper1.6.zip?attredirects=0]
 
 == 功能详细 ==
 
