@@ -1,4 +1,4 @@
-#summary BoomWorks.Net left side bar.
+#summary BoomWorks.Org left side bar.
 #labels Deprecated
  * [http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo_s.gif]
 ----
