@@ -1,17 +1,17 @@
 #summary ソースカウンター - SourceCounter - のホームページです。
 #labels Featured
 
-= ソフトの紹介(Introduction) =
+== ソフトの紹介(Introduction) ==
 
 プログラムのソースコードのステップ数(行数)、工数、コスト、品質指標などをカウントするソフトです。プログラムのコード行、空白行、コメント行に分けてカウントし、結果はカンマ区切り
 テキストファイル（CSV）として保存できます。
 
-= ダウンロード(Download) =
+== ダウンロード(Download) ==
 [http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip]
 
 [http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
 
-= 機能一覧(Feature) =
+== 機能一覧(Feature) ==
 サポートしているプログラミング言語は以下の通りです。
  * C、C++（.rc含む）
  * JAVA
@@ -24,6 +24,6 @@
  * HTML
  * SQL
 
-= 連絡先(Contact) =
+== 連絡先(Contact) ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
