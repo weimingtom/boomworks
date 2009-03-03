@@ -20,10 +20,15 @@
   * 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
   * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
   * 支持自由选择要统计的代码格式
-  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.1.png]
-  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.1.png]
+  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-cn-2.2.png]
+  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-settingdlg-cn-2.2.png]
 
 == 更新(Update) ==
+ * 2.2.30.36 - BOOM 2009-3-3
+  * 追加代码质量指标统计功能
+  * 界面更新
+  * BoomWorks域名变更（BoomWorks.Net -> BoomWorks.Org）
+
  * 2.1.24.11 - B O O M 2008/11/24
   * 修正不能统计 .C 扩展名代码问题
   * 追加关于对话框 boomworks.net 连接
