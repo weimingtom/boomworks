@@ -9,7 +9,7 @@
 
 == 下载地址(Download) ==
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z]
+[http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip]
 
 == 主要功能(Features) ==
 
@@ -20,8 +20,8 @@
   * 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
   * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
   * 支持自由选择要统计的代码格式
-  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.2.png]
-  * [http://boomworks.googlecode.com/files/sourcecounter-2.1.24.11.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
+  * [http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.2.png]
+  * [http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 == 更新(Update) ==
  * 2.2.30.36 - BOOM 2009-3-3
