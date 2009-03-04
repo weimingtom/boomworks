@@ -1,5 +1,5 @@
 #labels Deprecated
-[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
+[http://www.boomworks.org/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
 
 == 大众软件 ==
 
