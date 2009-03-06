@@ -9,11 +9,15 @@
 
 无需安装，无使用时间限制，欢迎下载试用。注意未注册用户不能使用全部功能，需要注册才能使用的功能请参考“主要功能和特点”。付费用户可享受技术支持和升级服务。
 
+
 == 下载地址(Download) ==
-[http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pcte-3.2.zip]
+
+[http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip]
+
 
 == 主要功能和特点(Features) ==
-  * [http://boomworks.googlecode.com/files/pcte-3.2.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
+
+  * [http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
 
   * 8 种时间指定方式（倒计时/ 伴随执行/ 具体时间/ 每时/ 每天/ 每周/ 每月/ 每年）
   * 定时关机 
@@ -36,22 +40,28 @@
   * 限制系统中只能运行一个“PC定时关机精灵” 
   * 最小化时自动变为托盘图标
   * 托盘图标的右键菜单（立即执行：关机、休眠、关闭显示器、重启动、注销） 
-  * [http://boomworks.googlecode.com/files/pcte-3.2.zip http://share.8844.com/eWebEditor/uploadfile/20070124231855384.jpg]
+  * [http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://share.8844.com/eWebEditor/uploadfile/20070124231855384.jpg]
 
 
 == 最新版本发布(What's New) ==
-  * PC定时执行专家(PCTaskTimer) - 3.2.2.0 版 ！- Boom 2007-8-16
+
+  * 4.0.1.0 版 - Boom 2007-8-16
+    * 更新“关于”对话框
+    * 使用新域名www.boomworks.org
+
+  * 3.2.2.0 版 - Boom 2007-8-16
     * 更新工具栏图标
     * 更新“关于”对话框
 
-  * PC定时执行专家(PCTaskTimer) - 2.1.2.0 版 ！- Boom 2006-4-6
+  * 2.1.2.0 版 - Boom 2006-4-6
     * 在任务列表里实现按列排序
 
-  * PC定时执行专家(PCTaskTimer) -  2.0.1.0 版 ！- Boom 2006-3-20
+  * 2.0.1.0 版 - Boom 2006-3-20
     * 将任务设置与时间设置独立在2个属性页里
     * 加入任务的状态：待执行/取消
     * 任务分类过滤
     * 功能细化为[日程提醒/系统功能/定期备份/定时关闭应用程序]
+
 
 == 联系我们(Contact) ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
