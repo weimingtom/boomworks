@@ -9,17 +9,22 @@
  * 快速：多线程加快搜索速度，多个引擎的搜索汇集，给你更高的搜索效率。 
 
 == 下载(Download) ==
-[http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip]
 
 == 主要功能和特点(Features) == 
 
   * 集成数十个搜索引擎，并详细分类
   * 多线程搜索，具有更快的速度
   * 引擎支持自定义配置，用户可自己添加
-  * [http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_1.gif]
-  * [http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_2.gif]
+  * [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_1.gif]
+  * [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_2.gif]
 
 == 最新版本发布(What's New) ==
+
+ * 3.0.1.0版 - Boom 2009-3-6
+  * 更新“关于”对话框
+  * 使用新域名www.boomworks.org 
+
  * SuperSearch(超级网搜) 2.0.2.4 版 ！- Boom 2006-3-4
   * 更新日文搜索引擎
 
