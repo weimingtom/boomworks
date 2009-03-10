@@ -7,9 +7,10 @@
 テキストファイル（CSV）として保存できます。
 
 == ダウンロード(Download) ==
-[http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z 
+http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z]
 
-[http://boomworks.googlecode.com/files/sourcecounter-2.2.30.36.zip http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
+[http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
 
 == 機能一覧(Feature) ==
 サポートしているプログラミング言語は以下の通りです。
