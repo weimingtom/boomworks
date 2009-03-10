@@ -7,8 +7,8 @@
 テキストファイル（CSV）として保存できます。
 
 == ダウンロード(Download) ==
-[http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z 
-http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z]
+
+[http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z]
 
 [http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
 
