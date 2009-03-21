@@ -7,7 +7,7 @@
 
 == 下载地址(Download) ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z]
+[http://boomworks.googlecode.com/files/SourceCounter-2.4.36.58.7z http://boomworks.googlecode.com/files/SourceCounter-2.4.36.58.7z]
 
 == 主要功能(Features) ==
 
