@@ -18,8 +18,8 @@
   * 能够计算项目的各种质量指标（包括：测试用例密度、缺陷检出密度）
   * 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
   * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
-  * [http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
-  * [http://boomworks.googlecode.com/files/SourceCounter-2.2.32.49.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
+  * [http://boomworks.googlecode.com/files/SourceCounter-2.4.36.58.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
+  * [http://boomworks.googlecode.com/files/SourceCounter-2.4.36.58.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 == 更新(Update) ==
 
@@ -36,7 +36,7 @@
 
  * 2.1.24.11版 - B O O M 2008/11/24
   * 修正不能统计 .C 扩展名代码问题
-  * 追加关于对话框 boomworks.net 连接
+  * 追加关于对话框 boomworks.org 连接
 
  * 2.1.22.4版 - B O O M 2008/11/16
   * 开始支持对 PHP 代码的统计
