@@ -1,4 +1,4 @@
-#summary ソースカウンター - SourceCounter - のホームページです。
+#summary ソース カウンタ - SourceCounter - のホームページです。
 #labels Featured
 
 == ソフトの紹介(Introduction) ==
@@ -13,6 +13,7 @@
 [http://boomworks.googlecode.com/files/SourceCounter-2.4.36.58.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
 
 == 機能一覧(Feature) ==
+
 サポートしているプログラミング言語は以下の通りです。
  * C、C++（.rc含む）
  * JAVA
@@ -24,7 +25,9 @@
  * PHP
  * HTML
  * SQL
+ * など...
 
 == 連絡先(Contact) ==
+
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
