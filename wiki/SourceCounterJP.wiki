@@ -10,9 +10,9 @@ C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML などのソ
 
 == ダウンロード(Download) ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.4.80.6.7z http://boomworks.googlecode.com/files/SourceCounter-2.4.80.6.7z]
+[http://boomworks.googlecode.com/files/SourceCounter-2.4.84.0.7z http://boomworks.googlecode.com/files/SourceCounter-2.4.84.0.7z]
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.4.80.6.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
+[http://boomworks.googlecode.com/files/SourceCounter-2.4.84.0.7z http://boomworks.googlecode.com/files/SourceCounter-Screenshot-main-jp-2.1.png]
 
 == 機能一覧(Feature) ==
 
