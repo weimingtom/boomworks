@@ -18,7 +18,7 @@
   * 能够计算项目的各种质量指标（包括：测试用例密度、缺陷检出密度）
   * 支持统计结果保存为 .CSV 文件格式（可以方便地导入到 Excel）
   * 支持多国语言界面（英文、简体中文、繁体中文、日语等）
-  * 保存上次统计时的用到的代码目录和代码类型
+  * 保存上次统计时的用到的代码目录
   * [http://boomworks.googlecode.com/files/SourceCounter-2.4.84.0.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
   * [http://boomworks.googlecode.com/files/SourceCounter-2.4.84.0.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
