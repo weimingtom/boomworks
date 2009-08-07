@@ -16,7 +16,7 @@
 
 == 编程开发相关软件 ==
 
- * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费的源代码统计工具，能统计包括：行数、工数、成本、质量指标等信息。支持20多种代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目进行统计，并能保存统计的结果。
+ * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目进行统计，并能保存统计的结果。
 
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
