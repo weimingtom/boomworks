@@ -1,9 +1,9 @@
 #labels Deprecated
-[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
+[http://www.boomworks.org/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
  
-  * [DesktopAssistantEN DesktopAssistant][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - A tool for Desktop file categorization. This tool can categorize files to folders by using the role defined beforehand. The folders that stores the files is automatically created.
+  * [DesktopAssistantEN DesktopAssistant][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - A tool for Desktop file categorization. This tool can categorize files to folders by using the role defined beforehand. The folders that stores the files is automatically created.
 
-  * [SourceCounterEN SourceCounter][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - SourceCounter is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 20 pre-defined!) of text or source files and report them to you in a quick summary.
+  * [SourceCounterEN SourceCounter][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - SourceCounter is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 20 pre-defined!) of text or source files and report them to you in a quick summary.
 
   * [PCTaskTimerEN PCTaskTimer] - Multi-task execute tool.
 
