@@ -3,7 +3,7 @@
 
 == 简介(Introduction) ==
 
-免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目进行统计，并能保存统计的结果。
+免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持30多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目进行统计，并能保存统计的结果。
 
 == 下载地址(Download) ==
 
@@ -11,7 +11,7 @@
 
 == 主要功能(Features) ==
 
-  * 支持对 20 多种代码格式进行统计
+  * 支持对 30 多种代码格式进行统计
   * 可以自由添加想要统计的文件的扩展名 
   * 支持多目录和包含子目录的统计方式
   * 能够计算代码的人月数和成本
@@ -23,6 +23,7 @@
   * [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 == 更新(Update) ==
+
  * 2.4.91.2版 - BOOM 2009-8-19
   * 增加对以下文件类型的统计支持
    * .sh (Shell file)
