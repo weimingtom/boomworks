@@ -3,36 +3,30 @@
 
 == 更多设定 对话框 ==
 
-本工具默认给出各种质量指标和工数、成本指标等都是参考值，请根据各个公司、个人的情况调整。
+[http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
 
- * 截图
-  * [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
+*本工具默认给出各种质量指标和工数、成本指标等都是参考值，请根据各个公司、个人的情况调整。*
 
  * 质量指标设定
   * 单元测试（Unit Testing）
    * 用例密度（Cases Density）：设定每千行代码要做的测试用例数。50为本工具的参考值。
    * 缺陷密度（Defects Density）：设定每千行代码预计测试出来的缺陷数。10为本工具的参考值。
-
   * 结合测试（Integration Testing）
    * 用例密度（Cases Density）：设定每千行代码要做的测试用例数。20为本工具的参考值。
    * 缺陷密度（Defects Density）：设定每千行代码预计测试出来的缺陷数。2为本工具的参考值。
 
  * 工数和成本分析的设定
-  *
-  *
-  *
+  * 编码生产率：一个人一个月生产的代码行数。4000为本工具的参考值。
+  * 一个人月的人日数：软件工程学里面的一个人月里包含的人日数（天数）。20为本工具的参考值。
+  * 一个人月的成本：一个人一个月的成本，不光是薪水，还有公司的隐性成本。10000美元为本工具的参考值（这个一定要调整，不然后果不堪设想 :-）
 
-== 选择代码类型 对话框==
+== 代码类型相关的对话框==
 
- * test
-  * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
-
- * 截图
-[http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
-
+=== 选择代码类型 对话框 ===
 [http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=== 选择代码类型 对话框 ===
+[http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
+
+=== 选择代码类型 对话框 ===
+[http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
