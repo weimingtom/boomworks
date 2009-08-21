@@ -3,15 +3,15 @@
 
 == 更多设定 对话框 ==
 
-Add your content here.
-
-[http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
+  * 截图
+    * [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
 
 
 
 == 选择代码类型 对话框==
 
-[http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
+ * test
+  * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
 
 [http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
 
