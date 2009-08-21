@@ -23,27 +23,33 @@
 == 代码类型相关的对话框==
 
   # 选择代码类型 对话框
-    * [http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
+   * [http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
     * “选择所有类型”：
     * “添加...”：
     * “编辑...”：
     * “删除”：
     * “OK”：
     * “Cancel”：
-  # 选择代码类型 对话框
-    * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
-    * “选择所有类型”：
-    * “添加...”：
-    * “编辑...”：
-    * “删除”：
+  # 文件类型设定-添加 对话框
+   * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
+    * “扩展名”：
+    * “描述”：
+    * “源代码语言风格”：
+    * “风格描述”：
+    * “单行注释”：
+    * “多行注释开始”：
+    * “多行注释结束”：
     * “OK”：
     * “Cancel”：
-  # 选择代码类型 对话框
+  # 文件类型设定-编辑 对话框
    * [http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
-    * “选择所有类型”：
-    * “添加...”：
-    * “编辑...”：
-    * “删除”：
+    * “扩展名”：
+    * “描述”：
+    * “源代码语言风格”：
+    * “风格描述”：
+    * “单行注释”：
+    * “多行注释开始”：
+    * “多行注释结束”：
     * “OK”：
     * “Cancel”：
 
