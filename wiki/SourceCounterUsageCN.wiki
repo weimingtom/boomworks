@@ -24,12 +24,12 @@
 
   # 选择代码类型 对话框
    * [http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
-    * “选择所有类型”：
-    * “添加...”：
-    * “编辑...”：
-    * “删除”：
-    * “OK”：
-    * “Cancel”：
+    * “选择所有类型”：选择或非选择所有的扩展名
+    * “添加...”：打开“文件类型设定-添加 对话框”
+    * “编辑...”：打开“文件类型设定-编辑 对话框”
+    * “删除”：删除当前选择的统计代码扩展名
+    * “OK”：确认选择内容无误，并关闭对话框
+    * “Cancel”：取消选择，并关闭对话框。
   # 文件类型设定-添加 对话框
    * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
     * “扩展名”：
@@ -43,15 +43,15 @@
     * “Cancel”：
   # 文件类型设定-编辑 对话框
    * [http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
-    * “扩展名”：
-    * “描述”：
-    * “源代码语言风格”：
-    * “风格描述”：
-    * “单行注释”：
-    * “多行注释开始”：
-    * “多行注释结束”：
-    * “OK”：
-    * “Cancel”：
+    * “扩展名”：同上
+    * “描述”：同上
+    * “源代码语言风格”：同上
+    * “风格描述”：同上
+    * “单行注释”：同上
+    * “多行注释开始”：同上
+    * “多行注释结束”：同上
+    * “OK”：同上
+    * “Cancel”：同上
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
