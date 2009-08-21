@@ -4,6 +4,21 @@
 == 主窗口 ==
 [http://boomworks.googlecode.com/files/SourceCounter-MainDlg-CN-2.4.png]
 
+ * 统计设定区域
+  * “添加...” - 
+  * “删除” - 
+  * “选择” - 
+  * “递归统计子目录” - 
+  * “更多设定...” - 
+ * 状态 - 
+ * 开始/停止 -
+ * 统计结果区域
+  * “保存...”-
+ * “检查更新...”- 
+ * “界面语言...”-
+ * “关于...” - 
+ * “退出” - 
+
 == 更多设定 对话框 ==
 
 [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
