@@ -22,11 +22,13 @@
 
 == 代码类型相关的对话框==
 
-=== 选择代码类型 对话框 ===
-[http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
+  # 选择代码类型 对话框
+   * [http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
+  # 选择代码类型 对话框
+   * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
+  # 选择代码类型 对话框
+   * [http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
 
-=== 选择代码类型 对话框 ===
-[http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
-
-=== 选择代码类型 对话框 ===
-[http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
+== 联系我们(Contact) ==
+ * [mailto:boomworks@gmail.com boomworks@gmail.com] 
+ * [mailto:boomworks@hotmail.com boomworks@hotmail.com] 
