@@ -32,15 +32,15 @@
     * “Cancel”：取消选择，并关闭对话框。
   # 文件类型设定-添加 对话框
    * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
-    * “扩展名”：
-    * “描述”：
-    * “源代码语言风格”：
-    * “风格描述”：
-    * “单行注释”：
-    * “多行注释开始”：
-    * “多行注释结束”：
-    * “OK”：
-    * “Cancel”：
+    * “扩展名”：填写要添加的扩展名，例：.cpp
+    * “描述”：填写扩展名的描述信息
+    * “源代码语言风格”：选择所填扩展名文件的语言风格
+    * “风格描述”：填写风格描述
+    * “单行注释”：不可更改
+    * “多行注释开始”：不可更改
+    * “多行注释结束”：不可更改
+    * “OK”：确定，并关闭对话框
+    * “Cancel”：取消，并关闭对话框
   # 文件类型设定-编辑 对话框
    * [http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
     * “扩展名”：同上
