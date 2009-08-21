@@ -1,5 +1,8 @@
-#summary 源代码统计工具-SourceCounter 使用说明。
+#summary 源代码统计工具(SourceCounter) - 使用说明。
 #labels Phase-Support
+
+== 简介 ==
+[http://code.google.com/p/boomworks/wiki/SourceCounterCN 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持30多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目进行统计，并能保存统计的结果。] 
 
 == 主窗口 ==
 [http://boomworks.googlecode.com/files/SourceCounter-MainDlg-CN-2.4.png]
