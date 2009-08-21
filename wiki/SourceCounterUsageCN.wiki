@@ -1,12 +1,21 @@
 #summary 源代码统计工具-SourceCounter 使用说明。
 #labels Phase-Support
 
-= 更多设定 对话框 =
+== 更多设定 对话框 ==
 
 Add your content here.
 
+[http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
 
-= 选择代码类型 对话框=
+
+
+== 选择代码类型 对话框==
+
+[http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
+
+[http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
+
+[http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
