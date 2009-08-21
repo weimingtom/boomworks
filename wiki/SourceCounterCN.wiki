@@ -22,6 +22,10 @@
   * [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
   * [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
+== 使用说明(Usage) ==
+
+[SourceCounterUsageCN 用户使用说明]
+
 == 更新(Update) ==
 
  * 2.4.91.2版 - BOOM 2009-8-19
