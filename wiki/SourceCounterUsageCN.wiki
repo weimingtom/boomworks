@@ -1,6 +1,9 @@
 #summary 源代码统计工具-SourceCounter 使用说明。
 #labels Phase-Support
 
+== 主窗口 ==
+[http://boomworks.googlecode.com/files/SourceCounter-MainDlg-CN-2.4.png]
+
 == 更多设定 对话框 ==
 
 [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
