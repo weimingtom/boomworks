@@ -1,0 +1,14 @@
+#summary 源代码统计工具-SourceCounter 使用说明。
+#labels Phase-Support
+
+= 更多设定 对话框 =
+
+Add your content here.
+
+
+= 选择代码类型 对话框=
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
