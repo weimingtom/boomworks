@@ -3,16 +3,31 @@
 
 == 更多设定 对话框 ==
 
-  * 截图
-    * [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
+本工具默认给出各种质量指标和工数、成本指标等都是参考值，请根据各个公司、个人的情况调整。
 
+ * 截图
+  * [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
 
+ * 质量指标设定
+  * 单元测试（Unit Testing）
+   * 用例密度（Cases Density）：设定每千行代码要做的测试用例数。50为本工具的参考值。
+   * 缺陷密度（Defects Density）：设定每千行代码预计测试出来的缺陷数。10为本工具的参考值。
+
+  * 结合测试（Integration Testing）
+   * 用例密度（Cases Density）：设定每千行代码要做的测试用例数。20为本工具的参考值。
+   * 缺陷密度（Defects Density）：设定每千行代码预计测试出来的缺陷数。2为本工具的参考值。
+
+ * 工数和成本分析的设定
+  *
+  *
+  *
 
 == 选择代码类型 对话框==
 
  * test
   * [http://boomworks.googlecode.com/files/SourceCounter-AddSrcTypeDlg-CN-2.4.png]
 
+ * 截图
 [http://boomworks.googlecode.com/files/SourceCounter-EditSrcTypeDlg-CN-2.4.png]
 
 [http://boomworks.googlecode.com/files/SourceCounter-SelSrcTypeDlg-CN-2.4.png]
