@@ -24,7 +24,7 @@
 
 == 使用说明(Usage) ==
 
-[SourceCounterUsageCN 用户使用说明]
+[SourceCounterUsageCN 使用说明]
 
 == 更新(Update) ==
 
