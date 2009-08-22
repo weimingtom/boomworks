@@ -1,7 +1,7 @@
 #summary 源代码统计工具(SourceCounter) - 使用说明。
 #labels Phase-Support
 
-[http://code.google.com/p/boomworks/wiki/SourceCounterCN 源代码统计工具(SourceCounter)主页] 
+[SourceCounterCN =>主页] 
 
 == 主窗口 ==
 [http://boomworks.googlecode.com/files/SourceCounter-MainDlg-CN-2.4.png]
