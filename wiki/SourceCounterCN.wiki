@@ -1,7 +1,7 @@
 #summary 源代码统计工具(SourceCounter) - 主页。
 #labels Featured,Phase-Design
 
-[SourceCounterUsageCN 源代码统计工具(SourceCounter)使用说明]
+[SourceCounterUsageCN =>使用说明]
 
 == 简介(Introduction) ==
 
