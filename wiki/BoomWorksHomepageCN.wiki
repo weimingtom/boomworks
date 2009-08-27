@@ -2,7 +2,6 @@
 [http://www.boomworks.org/ http://boomworks.googlecode.com/files/boomworks_logo.gif]
 
 == 大众软件 ==
-  * 无需分类、查找快速的人脉管理工具 - Preview - 已经将数据导入Sqlite数据库来管理，正在看PropertySheet类的文档，准备在联络人信息编辑窗口使用。很快会提供Preivew版的下载。
 
   * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
@@ -21,8 +20,9 @@
 
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
+== 开发中…… ==
 
-
+  * 无需分类、查找快速的人脉管理工具 - Preview - 已经将数据导入Sqlite数据库来管理，正在看PropertySheet类的文档，准备在联络人信息编辑窗口使用。很快会提供Preivew版的下载。
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
