@@ -22,7 +22,7 @@
 
 == 开发中…… ==
 
-  * 无需分类、查找快速的人脉管理工具 - Preview - 已经将数据导入Sqlite数据库来管理，正在看PropertySheet类的文档，准备在联络人信息编辑窗口使用。很快会提供Preivew版的下载。
+  * [PreviewSoftCN 通讯录管理、人脉管理工具预览版] - 无需分类、查找快速的人脉管理工具 - Preview - 已经将数据导入Sqlite数据库来管理，正在看PropertySheet类的文档，准备在联络人信息编辑窗口使用。很快会提供Preivew版的下载。
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
