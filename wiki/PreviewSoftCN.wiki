@@ -1,9 +1,10 @@
 #summary One-sentence summary of this page.
+#labels Featured,Phase-Design
 
 = Introduction =
 
 Add your content here.
-[BingBook-MainFrm-0.1.0.1_09.png http://boomworks.googlecode.com/files/BingBook-MainFrm-0.1.0.1_09.png]
+[http://boomworks.googlecode.com/files/BingBook-MainFrm-0.1.0.1_09.png  http://boomworks.googlecode.com/files/BingBook-MainFrm-0.1.0.1_09.png]
 
 = Details =
 
