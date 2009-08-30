@@ -1,14 +1,17 @@
-#summary One-sentence summary of this page.
+#summary BoomWorks开发中的软件的预览版介绍。
 #labels Featured,Phase-Design
 
-= Introduction =
+= 介绍 =
 
-Add your content here.
+下面这个是一个通讯录、人脉管理的软件。目前，基本框架已经开发完成，正在紧张的追加功能中。
+
 [http://boomworks.googlecode.com/files/BingBook-MainFrm-0.1.0.1_09.png  http://boomworks.googlecode.com/files/BingBook-MainFrm-0.1.0.1_09.png]
 
-= Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+= 详细 =
+
+主要的功能会有：
+  * 联系人管理（或者是顾客管理、通讯录管理）
+  * 联系历史记录
+  * 人脉管理（分析、提醒、预告）
+  * ……
