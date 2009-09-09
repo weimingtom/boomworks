@@ -12,15 +12,15 @@
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
 
-[https://mb6vqq.bay.livefilestore.com/y1mNwz8hFuHEk1a3duVbfvlxTQwsCJ0xaCzo6vttc_7OZ6LVO7Y-UFddF7WTm4WZvGG6Ytz8lQMSIgVHL86ZlmVdqQStogHjcRqCxmxwYK8H5GaupQnZo_ArDr8IxwP47KThHAkfvfPttWejw9yeSDl3w/BingBook-MainFrm-1.5.x_01.png https://mb6vqq.bay.livefilestore.com/y1mNwz8hFuHEk1a3duVbfvlxTQwsCJ0xaCzo6vttc_7OZ6LVO7Y-UFddF7WTm4WZvGG6Ytz8lQMSIgVHL86ZlmVdqQStogHjcRqCxmxwYK8H5GaupQnZo_ArDr8IxwP47KThHAkfvfPttWejw9yeSDl3w/BingBook-MainFrm-1.5.x_01.png]
+[http://mb6vqq.bay.livefilestore.com/y1pcHIN50xPgFVJ6G3KqIVwA-hg3sroCH9GHEiucIOZoG4KTzvFNTWeTcf5F2Z30eHWTb67eU7duVQaRWfkLoe-eYYcKIBCPEkZ/BingBook-MainFrm-1.7.x_01.png http://mb6vqq.bay.livefilestore.com/y1pcHIN50xPgFVJ6G3KqIVwA-hg3sroCH9GHEiucIOZoG4KTzvFNTWeTcf5F2Z30eHWTb67eU7duVQaRWfkLoe-eYYcKIBCPEkZ/BingBook-MainFrm-1.7.x_01.png]
 
 - 联系人管理界面（搜索中心处于隐藏状态）
 
-[https://mb6vqq.bay.livefilestore.com/y1mwRkdTO1PrgwKRp9W8VDb3J-6XKXPjyuCxg1Kr5MTeTr6hh5FQAfQlOHQkigjEDZRY_E7W7fB4ZrAhp-4DkZp1kqI7LBlpDxMYiERHPlDGYhDKj0rjCgYzaNOELnnaqIw4Ebs5yVp5T8GGBtg0nAezw/BingBook-MainFrm-1.5.x_02.png https://mb6vqq.bay.livefilestore.com/y1mwRkdTO1PrgwKRp9W8VDb3J-6XKXPjyuCxg1Kr5MTeTr6hh5FQAfQlOHQkigjEDZRY_E7W7fB4ZrAhp-4DkZp1kqI7LBlpDxMYiERHPlDGYhDKj0rjCgYzaNOELnnaqIw4Ebs5yVp5T8GGBtg0nAezw/BingBook-MainFrm-1.5.x_02.png]
+[http://mb6vqq.bay.livefilestore.com/y1pwj1TrEXVqTi-ffOlpnwXPOIDUpvKcd-anr7PnYgiUvNj1lcQtz3-_UPVsS3jFkmkumvtYynLZ9pkqbROG5r85MVfbyRg24tb/BingBook-MainFrm-1.7.x_02.png http://mb6vqq.bay.livefilestore.com/y1pwj1TrEXVqTi-ffOlpnwXPOIDUpvKcd-anr7PnYgiUvNj1lcQtz3-_UPVsS3jFkmkumvtYynLZ9pkqbROG5r85MVfbyRg24tb/BingBook-MainFrm-1.7.x_02.png]
 
 - 主界面（横向并排的方式）
 
-[https://mb6vqq.bay.livefilestore.com/y1mJhXTKEca5EwKOwNFGrtZfYLHGBV9FuYUuEQk9ZKHMrOeZcPf0_GppgzFhUSl65cxeunYnpT9Swh3h5J7O9vI1pTAqcV3Smtc7olUFctwW0pNxRpvf_LfdKUL0TfnbuyYiUsWIULNZxyVX2OjiTO33A/BingBook-MainFrm-1.5.x_03.png https://mb6vqq.bay.livefilestore.com/y1mJhXTKEca5EwKOwNFGrtZfYLHGBV9FuYUuEQk9ZKHMrOeZcPf0_GppgzFhUSl65cxeunYnpT9Swh3h5J7O9vI1pTAqcV3Smtc7olUFctwW0pNxRpvf_LfdKUL0TfnbuyYiUsWIULNZxyVX2OjiTO33A/BingBook-MainFrm-1.5.x_03.png]
+[http://mb6vqq.bay.livefilestore.com/y1pAeMcRQFuDdB-JS7LyA5Rl5SchhiGcf7Jep8Hy0Te01hb94a9bDjeE-Bn40XqYi1PR-aC4qK3plnX9WAr3_5WKsP1FHY7FHiN/BingBook-MainFrm-1.7.x_03.png http://mb6vqq.bay.livefilestore.com/y1pAeMcRQFuDdB-JS7LyA5Rl5SchhiGcf7Jep8Hy0Te01hb94a9bDjeE-Bn40XqYi1PR-aC4qK3plnX9WAr3_5WKsP1FHY7FHiN/BingBook-MainFrm-1.7.x_03.png]
 
 无需分类、查找快速的人脉管理工具，已经将数据导入Sqlite数据库来管理，正在看PropertySheet类的文档，准备在联络人信息编辑窗口使用。很快会提供Preivew版的下载。 
 
