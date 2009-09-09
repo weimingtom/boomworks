@@ -1,0 +1,30 @@
+#summary 天涯人脉通讯录 - 主页。
+#labels Deprecated
+
+= 介绍 =
+
+人脉、客户、通讯管理工具 - 下面这个是一个集人脉、通讯录、顾客管理于一身的管理软件。这个工具，中文版已可以下载，繁体中文版、日语版近日发布。
+
+*界面更新*
+
+- 主界面（搜索中心、联系人视图、状态和提醒视图）
+
+[https://mb6vqq.bay.livefilestore.com/y1mNwz8hFuHEk1a3duVbfvlxTQwsCJ0xaCzo6vttc_7OZ6LVO7Y-UFddF7WTm4WZvGG6Ytz8lQMSIgVHL86ZlmVdqQStogHjcRqCxmxwYK8H5GaupQnZo_ArDr8IxwP47KThHAkfvfPttWejw9yeSDl3w/BingBook-MainFrm-1.5.x_01.png https://mb6vqq.bay.livefilestore.com/y1mNwz8hFuHEk1a3duVbfvlxTQwsCJ0xaCzo6vttc_7OZ6LVO7Y-UFddF7WTm4WZvGG6Ytz8lQMSIgVHL86ZlmVdqQStogHjcRqCxmxwYK8H5GaupQnZo_ArDr8IxwP47KThHAkfvfPttWejw9yeSDl3w/BingBook-MainFrm-1.5.x_01.png]
+
+- 联系人管理界面（搜索中心处于隐藏状态）
+
+[https://mb6vqq.bay.livefilestore.com/y1mwRkdTO1PrgwKRp9W8VDb3J-6XKXPjyuCxg1Kr5MTeTr6hh5FQAfQlOHQkigjEDZRY_E7W7fB4ZrAhp-4DkZp1kqI7LBlpDxMYiERHPlDGYhDKj0rjCgYzaNOELnnaqIw4Ebs5yVp5T8GGBtg0nAezw/BingBook-MainFrm-1.5.x_02.png https://mb6vqq.bay.livefilestore.com/y1mwRkdTO1PrgwKRp9W8VDb3J-6XKXPjyuCxg1Kr5MTeTr6hh5FQAfQlOHQkigjEDZRY_E7W7fB4ZrAhp-4DkZp1kqI7LBlpDxMYiERHPlDGYhDKj0rjCgYzaNOELnnaqIw4Ebs5yVp5T8GGBtg0nAezw/BingBook-MainFrm-1.5.x_02.png]
+
+- 主界面（横向并排的方式）
+
+[https://mb6vqq.bay.livefilestore.com/y1mJhXTKEca5EwKOwNFGrtZfYLHGBV9FuYUuEQk9ZKHMrOeZcPf0_GppgzFhUSl65cxeunYnpT9Swh3h5J7O9vI1pTAqcV3Smtc7olUFctwW0pNxRpvf_LfdKUL0TfnbuyYiUsWIULNZxyVX2OjiTO33A/BingBook-MainFrm-1.5.x_03.png https://mb6vqq.bay.livefilestore.com/y1mJhXTKEca5EwKOwNFGrtZfYLHGBV9FuYUuEQk9ZKHMrOeZcPf0_GppgzFhUSl65cxeunYnpT9Swh3h5J7O9vI1pTAqcV3Smtc7olUFctwW0pNxRpvf_LfdKUL0TfnbuyYiUsWIULNZxyVX2OjiTO33A/BingBook-MainFrm-1.5.x_03.png]
+
+无需分类、查找快速的人脉管理工具，已经将数据导入Sqlite数据库来管理，正在看PropertySheet类的文档，准备在联络人信息编辑窗口使用。很快会提供Preivew版的下载。 
+
+= 详细 =
+
+主要的功能会有：
+  * 联系人管理（或者是顾客管理、通讯录管理）
+  * 联系历史记录
+  * 人脉管理（分析、提醒、预告）
+  * ……
