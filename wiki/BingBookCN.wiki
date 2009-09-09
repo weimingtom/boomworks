@@ -3,7 +3,7 @@
 
 == 简介 ==
 
-人脉、客户、通讯管理工具 - 下面这个是一个集人脉、通讯录、顾客管理于一身的管理软件。这个工具，中文版已可以下载，繁体中文版、日语版近日发布。
+一个集人脉、通讯录、顾客管理于一身的管理软件。这个工具，中文版已可以下载，繁体中文版、日语版近日发布。
 
 == 下载(Download) ==
 [http://boomworks.googlecode.com/files/BingBook-1.7.755rc.7z http://boomworks.googlecode.com/files/BingBook-1.7.755rc.7z]
