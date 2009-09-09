@@ -1,9 +1,7 @@
 #labels Deprecated
-== 预览版 ==
-
-  * [PreviewSoftCN 人脉/通讯管理工具预览版][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 基于标签、无需分类、查找快速的人脉通讯管理工具。很快会提供中文Preivew版的下载。
-
 == 大众软件 ==
+
+  * [BingBookCN 天涯人脉通讯录] - 基于标签、无需分类、查找快速的人脉通讯管理工具。已经有提供中文RC版的下载。
 
   * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
@@ -21,6 +19,10 @@
  * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。可以对 C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML 等项目进行统计，并能保存统计的结果。
 
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
+
+== 预览版 ==
+
+  * [PreviewSoftCN 人脉/通讯管理工具预览版][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 基于标签、无需分类、查找快速的人脉通讯管理工具。很快会提供中文Preivew版的下载。
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
