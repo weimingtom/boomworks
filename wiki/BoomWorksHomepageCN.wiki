@@ -1,7 +1,7 @@
 #labels Deprecated
 == 大众软件 ==
 
-  * [BingBookCN 天涯人脉通讯录] - 基于标签、无需分类、查找快速的人脉通讯管理工具。已经有提供中文RC版的下载。
+  * [BingBookCN 天涯人脉通讯录][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 基于标签、无需分类、查找快速的人脉通讯管理工具。已经有提供中文RC版的下载。
 
   * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
