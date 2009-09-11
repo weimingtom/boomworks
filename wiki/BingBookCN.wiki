@@ -13,7 +13,7 @@
 
 == 下载(Download) ==
 
-[http://boomworks.googlecode.com/files/BingBook-1.8.877.zip http://boomworks.googlecode.com/files/BingBook-1.8.877.zip]
+[http://boomworks.googlecode.com/files/BingBook-1.8.879.zip http://boomworks.googlecode.com/files/BingBook-1.8.879.zip]
 
 ==界面==
 
