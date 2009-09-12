@@ -1,4 +1,4 @@
-#summary 天涯人脉通讯录 - 主页。
+#summary 天涯人脉通讯录2009 - 主页。
 #labels Deprecated
 
 == 介绍 ==
