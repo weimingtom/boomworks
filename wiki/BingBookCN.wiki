@@ -11,7 +11,7 @@
   * 本软件基于Unicode编码制作，不会在输入外文（如：日文、韩文）的时候出现乱码。对于管理外国客户、朋友的信息非常有用。
   * 支持多国语言。中文版、英文版、日语版已可以下载，繁体中文版即将公开发布。
 
-== 下载(Download) ==
+== 下载 ==
 
 [http://boomworks.googlecode.com/files/BingBook-1.8.879.zip http://boomworks.googlecode.com/files/BingBook-1.8.879.zip]
 
@@ -40,6 +40,6 @@
   * 批量修改（开发中……）
   * 多国语言翻译对应（中文繁体版翻译中……）
 
-== 联系我们(Contact) ==
+== 联系我们 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
