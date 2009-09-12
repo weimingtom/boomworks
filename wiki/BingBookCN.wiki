@@ -22,21 +22,21 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BingBook-1.8.879.zip http://boomworks.googlecode.com/files/BingBook-1.8.879.zip]
+[http://boomworks.googlecode.com/files/BingBook-2.0.4.69.zip http://boomworks.googlecode.com/files/BingBook-2.0.4.69.zip]
 
 ==界面==
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
 
-[http://boomworks.googlecode.com/files/BingBook-1.8.836rc.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-1.8.x_02.png]
+[http://boomworks.googlecode.com/files/BingBook-2.0.4.69.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-1.8.x_02.png]
 
 - 联系人管理界面（搜索中心处于隐藏状态）
 
-[http://boomworks.googlecode.com/files/BingBook-1.8.877.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-1.8.x_04.png]
+[http://boomworks.googlecode.com/files/BingBook-2.0.4.69.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-1.8.x_04.png]
 
 - 主界面（横向并排的方式）
 
-[http://boomworks.googlecode.com/files/BingBook-1.8.877.zip  http://mb6vqq.bay.livefilestore.com/y1pAeMcRQFuDdB-JS7LyA5Rl5SchhiGcf7Jep8Hy0Te01hb94a9bDjeE-Bn40XqYi1PR-aC4qK3plnX9WAr3_5WKsP1FHY7FHiN/BingBook-MainFrm-1.7.x_03.png]
+[http://boomworks.googlecode.com/files/BingBook-2.0.4.69.zip  http://mb6vqq.bay.livefilestore.com/y1pAeMcRQFuDdB-JS7LyA5Rl5SchhiGcf7Jep8Hy0Te01hb94a9bDjeE-Bn40XqYi1PR-aC4qK3plnX9WAr3_5WKsP1FHY7FHiN/BingBook-MainFrm-1.7.x_03.png]
 
 == 联系我们 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
