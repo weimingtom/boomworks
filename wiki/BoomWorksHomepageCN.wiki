@@ -22,7 +22,7 @@
 
 == 预览版 ==
 
-  * [PreviewSoftCN 人脉/通讯管理工具预览版][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 基于标签、无需分类、查找快速的人脉通讯管理工具。很快会提供中文Preivew版的下载。
+  * [PreviewSoftCN 开发中的预览版软件][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - BoomWorks开发中的软件的预览版的介绍网页。
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
