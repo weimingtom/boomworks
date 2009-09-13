@@ -43,6 +43,12 @@
 
 [http://boomworks.googlecode.com/files/BingBook-2.0.4.69.zip  http://mb6vqq.bay.livefilestore.com/y1pAeMcRQFuDdB-JS7LyA5Rl5SchhiGcf7Jep8Hy0Te01hb94a9bDjeE-Bn40XqYi1PR-aC4qK3plnX9WAr3_5WKsP1FHY7FHiN/BingBook-MainFrm-1.7.x_03.png]
 
+== 更新 ==
+
+  * 2.0.4.69 - 2009/09/13
+    * 正式推出版本
+    * 具备所有的基本功能
+
 == 联系我们 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
