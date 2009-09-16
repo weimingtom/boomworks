@@ -21,8 +21,11 @@
 
 == 截图 ==
 
-  * [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
-  * [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
+- 主界面
+[http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
+
+- 参数设定窗口
+[http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 
 == 下载地址(Download) ==
