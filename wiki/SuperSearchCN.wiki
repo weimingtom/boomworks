@@ -2,20 +2,23 @@
 #labels Featured
 
 == 简介(Introduction) ==
-免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
- * 免费：无须注册，无任何功能限制；
- * 轻量：可执行文件的大小只有不到 150KB；
- * 快速：多线程加快搜索速度，多个引擎的搜索汇集，给你更高的搜索效率。 
-
-== 下载(Download) ==
-[http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip]
-
-== 主要功能和特点(Features) == 
+免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。主要功能和特点如下：
 
   * 集成数十个搜索引擎，并详细分类
-  * 多线程搜索，具有更快的速度
   * 引擎支持自定义配置，用户可自己添加
+  * 免费：无须注册，无任何功能限制；
+  * 轻量：可执行文件的大小只有不到 150KB；
+  * 快速：多线程加快搜索速度，多个引擎的搜索汇集，给你更高的搜索效率。 
+
+
+== 下载(Download) ==
+
+[http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip]
+
+
+== 截图(Screenshot) == 
+
   * [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_1.gif]
   * [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_2.gif]
 
