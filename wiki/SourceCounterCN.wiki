@@ -21,11 +21,11 @@
 
 == 截图 ==
 
-  * 主界面
+- 主界面
 
 [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
 
-  * 参数设定窗口
+- 参数设定窗口
 
 [http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
