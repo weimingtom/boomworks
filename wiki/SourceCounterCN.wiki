@@ -21,19 +21,22 @@
 
 - 主界面
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
 
 - 参数设定窗口
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 
 == 下载地址(Download) ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z http://boomworks.googlecode.com/files/SourceCounter-2.4.91.2.7z]
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip]
 
 
 == 更新(Update) ==
+ * 2.5.1.4版 - BOOM 2009-10-21
+  * 修正统计文件扩展名区分大小写的错误
+  * 增加了对.inc文件类型的统计
 
  * 2.4.91.2版 - BOOM 2009-8-19
   * 增加对以下文件类型的统计支持
@@ -78,10 +81,7 @@
   * 支持多路径统计
   * 支持更多文件格式
 
- * 1.6.6.4版 - BOOM 2006-1-26
-  * 支持对 ASP 和 HTML 文件的统计
-  * 保存统计源代码的文件夹路径
-
 == 联系我们(Contact) ==
+
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
