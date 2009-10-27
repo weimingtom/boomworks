@@ -28,8 +28,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z 
-http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z]
+[http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z]
 
 ==界面==
 
