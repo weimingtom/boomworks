@@ -20,9 +20,9 @@ last_name,first_name,business_phone,business_mobile,home_phone,home_mobile,email
 || *字段名* || *字段长度* || *中文名* ||
 ||id||INTEGER||ID||
 ||last_name||VARCHAR(32)||姓||
-||last_name_alpha||VARCHAR(32)||||
+||last_name_alpha||VARCHAR(32)||姓拼音||
 ||first_name||VARCHAR(32)||名||
-||first_name_alpha||VARCHAR(32)||||
+||first_name_alpha||VARCHAR(32)||名拼音||
 ||sex||INTEGER||性别||
 ||birthday||TIMESTAMP||生日||
 ||company||VARCHAR(128)||公司||
