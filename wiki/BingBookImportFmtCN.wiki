@@ -14,12 +14,50 @@ W:\boomworks\BingBook2\src,AboutDlg.h,.h,69,46,10,0,13,1455,0.23,115.00,2.30,0.4
 
 == 使用方法 ==
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
-
-
+|| *字段名* || *字段长度* || *中文名* ||
+||id||INTEGER||ID||
+||last_name||VARCHAR(32)||姓||
+||last_name_alpha||VARCHAR(32)||||
+||first_name||VARCHAR(32)||名||
+||first_name_alpha||VARCHAR(32)||||
+||sex||INTEGER||性别||
+||birthday||TIMESTAMP||生日||
+||company||VARCHAR(128)||公司||
+||department||VARCHAR(64)||部门||
+||job_title||VARCHAR(64)||职务||
+||business_fax||VARCHAR(16)||办公传真(1)||
+||business_fax_2||VARCHAR(16)||办公传真(2)||
+||business_phone||VARCHAR(16)||办公电话(1)||
+||business_phone_2||VARCHAR(16)||办公电话(2)||
+||business_mobile||VARCHAR(16)||办公手机(1)||
+||business_mobile_2||VARCHAR(16)||办公手机(2)||
+||business_street||VARCHAR(256)||办公住址(1)||
+||business_street_2||VARCHAR(256)||办公住址(2)||
+||business_street_3||VARCHAR(256)||办公住址(3)||
+||home_fax||VARCHAR(16)||住宅传真(1)||
+||home_fax_2||VARCHAR(16)||住宅传真(2)||
+||home_phone||VARCHAR(16)||住宅电话(1)||
+||home_phone_2||VARCHAR(16)||住宅电话(2)||
+||home_mobile||VARCHAR(16)||个人手机(1)||
+||home_mobile_2||VARCHAR(16)||个人手机(2)||
+||home_street||VARCHAR(256)||家庭住址(1)||
+||home_street_2||VARCHAR(256)||家庭住址(2)||
+||home_street_3||VARCHAR(256)||家庭住址(3)||
+||email||VARCHAR(32)||电子邮件(1)||
+||email_2||VARCHAR(32)||电子邮件(2)||
+||webpage||VARCHAR(64)||网页(1)||
+||webpage_2||VARCHAR(64)||网页(2)||
+||comment||VARCHAR(512)||备考||
+||latest_update_time||TIMESTAMP DEFAULT CURRENT_TIMESTAMP NULL,||最终更新时间||
+||latest_update_user_id||INTEGER||最终更新者ID||
+||entry_time||TIMESTAMP DEFAULT CURRENT_TIMESTAMP NULL,||录入时间||
+||entry_user_id||INTEGER||录入者ID||
+||business_im||VARCHAR(32)||办公即时通信工具(1)||
+||business_im_2||VARCHAR(32)||办公即时通信工具(2)||
+||business_im_3||VARCHAR(32)||办公即时通信工具(3)||
+||home_im||VARCHAR(32)||私用即时通信工具(1)||
+||home_im_2||VARCHAR(32)||私用即时通信工具(2)||
+||home_im_3||VARCHAR(32)||私用即时通信工具(3)||
 
 == 数据库表定义 ==
 
