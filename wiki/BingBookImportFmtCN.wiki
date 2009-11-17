@@ -7,13 +7,12 @@ last_name,first_name,business_phone,business_mobile,home_phone,home_mobile,email
 周,星驰,010-12345678,13900008888,010-43215678,13300009999,xingchi.zhou@gmail.com
 }}}
 
-== 导入模板下载 ==
+  * 导入模板下载
+    * [http://boomworks.googlecode.com/files/BingBookImportFmt-2.x.csv http://boomworks.googlecode.com/files/BingBookImportFmt-2.x.csv]
 
-[http://boomworks.googlecode.com/files/BingBookImportFmt-2.x.csv http://boomworks.googlecode.com/files/BingBookImportFmt-2.x.csv]
-
-  * 注意
-    * 使用.CSV 文件进行导入的时候，请保留第一行的英文字段。
-    * 导入的时候，目前不会对同名联系人进行检查。 
+    * 注意
+      * 使用.CSV 文件进行导入的时候，请保留第一行的英文字段。
+      * 导入的时候，目前不会对同名联系人进行检查。 
 
 == 关于字段名 ==
 
