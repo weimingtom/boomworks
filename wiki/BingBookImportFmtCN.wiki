@@ -5,8 +5,15 @@
 {{{
 
 last_name,first_name,sex,company,department,job_title,business_fax,business_fax_2,business_phone,business_phone_2,business_mobile,business_mobile_2,business_street,business_street_2,business_street_3,home_fax,home_fax_2,home_phone,home_phone_2,home_mobile,home_mobile_2,home_street,home_street_2,home_street_3,email,email_2,webpage,webpage_2,comment,latest_update_time,latest_update_user_id,entry_time,entry_user_id,business_im,business_im_2business_im_3,home_im,home_im_2,home_im_3
+周,星驰,'xingchi',1,'1959-07-09 00:00:00','香港星驰影业公司','电影制作部','演员，导演','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','理工大学，香港，中国','','','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','东京都，日本国','理工大学，大连，中国','','xingchi.zhou@gmail.com','xx@hk.net','www.xingchi.zhou.com','www.xing.com.cn','一万年的爱情','2009-09-17 18:53:12',0,'2009-09-12 18:01:40',0,NULL,NULL,NULL,NULL,NULL,NULL)
 
 
+}}}
+
+
+{{{
+
+last_name,first_name,sex,company,department,job_title,business_fax,business_fax_2,business_phone,business_phone_2,business_mobile,business_mobile_2,business_street,business_street_2,business_street_3,home_fax,home_fax_2,home_phone,home_phone_2,home_mobile,home_mobile_2,home_street,home_street_2,home_street_3,email,email_2,webpage,webpage_2,comment,latest_update_time,latest_update_user_id,entry_time,entry_user_id,business_im,business_im_2business_im_3,home_im,home_im_2,home_im_3
 周,星驰,'xingchi',1,'1959-07-09 00:00:00','香港星驰影业公司','电影制作部','演员，导演','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','理工大学，香港，中国','','','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','010-12345678','东京都，日本国','理工大学，大连，中国','','xingchi.zhou@gmail.com','xx@hk.net','www.xingchi.zhou.com','www.xing.com.cn','一万年的爱情','2009-09-17 18:53:12',0,'2009-09-12 18:01:40',0,NULL,NULL,NULL,NULL,NULL,NULL)
 
 
@@ -112,4 +119,12 @@ CREATE TABLE [contacts] (
 [home_im_3] VARCHAR(32)  NULL
 );
 
+}}}
+
+
+全部的字段名
+
+
+{{{
+last_name,last_name_alpha,first_name,first_name_alpha,sex,birthday,company,department,job_title,business_fax,business_fax_2,business_phone,business_phone_2,business_mobile,business_mobile_2,business_street,business_street_2,business_street_3,home_fax,home_fax_2,home_phone,home_phone_2,home_mobile,home_mobile_2,home_street,home_street_2,home_street_3,email,email_2,webpage,webpage_2,comment,latest_update_time,latest_update_user_id,entry_time,entry_user_id,business_im,business_im_2business_im_3,home_im,home_im_2,home_im_3
 }}}
