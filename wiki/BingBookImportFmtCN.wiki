@@ -7,6 +7,9 @@ last_name,first_name,business_phone,business_mobile,home_phone,home_mobile,email
 周,星驰,010-12345678,13900008888,010-43215678,13300009999,xingchi.zhou@gmail.com
 }}}
 
+== 导入模板下载 ==
+[http://boomworks.googlecode.com/files/BingBookImportFmt-2.x.csv http://boomworks.googlecode.com/files/BingBookImportFmt-2.x.csv]
+
 == 关于字段名 ==
 
 || *字段名* || *字段长度* || *中文名* ||
