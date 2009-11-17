@@ -2,7 +2,14 @@
 
 == 格式说明 ==
 
+{{{
 
+Folder,File,Type,Lines,Code lines,Code//Comment,Comment lines,Blank lines,Size,Man-Day,Cost,UT Cases,UT Defects,IT Cases,IT Defects
+
+W:\boomworks\BingBook2\src,AboutDlg.h,.h,69,46,10,0,13,1455,0.23,115.00,2.30,0.46,0.92,0.09
+
+
+}}}
 
 
 == 使用方法 ==
