@@ -18,3 +18,57 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+
+
+== 数据库表定义 ==
+
+{{{
+
+CREATE TABLE [contacts] (
+[id] INTEGER  PRIMARY KEY NULL,
+[last_name] VARCHAR(32)  NOT NULL,
+[last_name_alpha] VARCHAR(32)  NOT NULL,
+[first_name] VARCHAR(32)  NOT NULL,
+[first_name_alpha] VARCHAR(32)  NOT NULL,
+[sex] INTEGER  NOT NULL,
+[birthday] TIMESTAMP  NULL,
+[company] VARCHAR(128)  NULL,
+[department] VARCHAR(64)  NULL,
+[job_title] VARCHAR(64)  NULL,
+[business_fax] VARCHAR(16)  NULL,
+[business_fax_2] VARCHAR(16)  NULL,
+[business_phone] VARCHAR(16)  NULL,
+[business_phone_2] VARCHAR(16)  NULL,
+[business_mobile] VARCHAR(16)  NULL,
+[business_mobile_2] VARCHAR(16)  NULL,
+[business_street] VARCHAR(256)  NULL,
+[business_street_2] VARCHAR(256)  NULL,
+[business_street_3] VARCHAR(256)  NULL,
+[home_fax] VARCHAR(16)  NULL,
+[home_fax_2] VARCHAR(16)  NULL,
+[home_phone] VARCHAR(16)  NULL,
+[home_phone_2] VARCHAR(16)  NULL,
+[home_mobile] VARCHAR(16)  NULL,
+[home_mobile_2] VARCHAR(16)  NULL,
+[home_street] VARCHAR(256)  NULL,
+[home_street_2] VARCHAR(256)  NULL,
+[home_street_3] VARCHAR(256)  NULL,
+[email] VARCHAR(32)  NULL,
+[email_2] VARCHAR(32)  NULL,
+[webpage] VARCHAR(64)  NULL,
+[webpage_2] VARCHAR(64)  NULL,
+[comment] VARCHAR(512)  NULL,
+[latest_update_time] TIMESTAMP DEFAULT CURRENT_TIMESTAMP NULL,
+[latest_update_user_id] INTEGER  NULL,
+[entry_time] TIMESTAMP DEFAULT CURRENT_TIMESTAMP NULL,
+[entry_user_id] INTEGER  NULL,
+[business_im] VARCHAR(32)  NULL,
+[business_im_2] VARCHAR(32)  NULL,
+[business_im_3] VARCHAR(32)  NULL,
+[home_im] VARCHAR(32)  NULL,
+[home_im_2] VARCHAR(32)  NULL,
+[home_im_3] VARCHAR(32)  NULL
+);
+
+}}}
