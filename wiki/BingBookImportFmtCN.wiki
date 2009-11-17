@@ -13,6 +13,8 @@ last_name,first_name,business_phone,business_mobile,home_phone,home_mobile,email
     * 注意
       * 使用.CSV 文件进行导入的时候，请保留第一行的英文字段。
       * 导入的时候，目前不会对同名联系人进行检查。 
+      * 建议使用*Excel软件*来编辑 .CSV 文件。
+      * 除了last_name 和 first_name 其他的字段可以为空（什么也不填）
 
 == 关于字段名 ==
 
