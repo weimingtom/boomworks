@@ -34,22 +34,22 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z]
+[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip]
 
 ==界面==
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
 
-[http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_01.png]
+[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_02.png]
 
 - 批量导入对话框
 
-[http://boomworks.googlecode.com/files/BingBook-2.0.48.0.7z http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_01.png]
+[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
 
 == 更新 ==
 
-  * 2.4.30.2 - 2009/11/19
-    * 增加从Excel文件批量导入联系人功能
+  * 2.4.54.0 - 2009/11/19
+    * 增加从[BingBookImportFmtCN Excel文件]批量导入联系人功能
     * 批量删除联系人功能
 
   * 2.0.48.0 - 2009/10/27
