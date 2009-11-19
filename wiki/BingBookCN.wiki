@@ -42,6 +42,10 @@
 
 [http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_02.png]
 
+- 联系人编辑对话框
+
+[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-EditDlg-2.4.x_01.png]
+
 - 批量导入对话框
 
 [http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
