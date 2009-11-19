@@ -6,7 +6,7 @@
 ||周||星驰||010-12345678||13900008888||010-43215678||13300009999||xingchi.zhou@gmail.com||
 
   * 导入模板下载
-    * [# #]
+    * [http://boomworks.googlecode.com/files/BingBookImportFmt_V2.xls http://boomworks.googlecode.com/files/BingBookImportFmt_V2.xls]
 
     * 注意
       * 使用.xls 文件进行导入的时候，请保留第一行的英文字段。
