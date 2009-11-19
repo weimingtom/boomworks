@@ -1,5 +1,7 @@
 #summary 天涯人脉通讯录2009 - 导入导出格式说明。
 
+[BingBookCN =>使用说明]
+
 == 导入格式 ==
 
 ||last_name||first_name||business_phone||business_mobile||home_phone||home_mobile||email||
