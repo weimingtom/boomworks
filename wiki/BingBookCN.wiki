@@ -14,7 +14,7 @@
 
   * 批量导入功能
     * 直接通过 .xls 文件（Excel文件），批量导入联系人
-      * *[BingBookImportFmtCN .xls 模板和使用方法]*
+      * 请参考*[BingBookImportFmtCN .xls 模板和使用方法]*
       * 可以将你的手机通讯录，通过 .xls 文件导入进来
 
   * 具有联系人管理模块（或者是客户管理、通讯录管理）
