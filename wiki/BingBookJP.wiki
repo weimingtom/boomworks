@@ -1,0 +1,10 @@
+#summary 天涯人脈管理2010 のホームページです。
+
+== 紹介 ==
+
+Add your content here.
+
+
+== ダウンロード ==
+
+[http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip]
