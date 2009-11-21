@@ -1,4 +1,6 @@
-[http://www.boomworks.net/ http://boomworks.googlecode.com/files/boomworks_net-logo.png]
+== ソフトウェアリスト ==
+
+ * [BingBookJP 天涯人脈管理２０１０] - 連絡先管理、顧客管理、人脈管理の統合ツールです。フリーソフトで、インストール不要、USBディスクで格納して、どこでも使えます。
 
  * [SourceCounterJP ソースカウンタ][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] - プログラムのソースコードのステップ数(行数)をカウントするソフトです。 プログラムのコード行、空白行、コメント行に分けてカウントし、結果はカンマ区切り テキストファイル（CSV）として保存できます。
 
