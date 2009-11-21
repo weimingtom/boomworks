@@ -2,9 +2,15 @@
 
 == 紹介 ==
 
-Add your content here.
+連絡先管理、顧客管理、人脈管理の統合ツールです。フリーソフトで、インストール不要、USBディスクで格納して、どこでも使えます。
 
 
 == ダウンロード ==
 
 [http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip]
+
+
+== 作者への問い合わせ先 ==
+
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
