@@ -2,7 +2,7 @@
 
 == 紹介 ==
 
-連絡先管理、顧客管理、人脈管理の統合ツールです。フリーソフトで、インストール不要、USBディスクで格納して、どこでも使えます。
+連絡先管理、顧客管理、人脈管理の統合ツールです。フリーソフトで、インストール不要、USBディスクに格納して、どこでも使えます。
 
 [http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-JP-3.0.x_01.png]
 
