@@ -26,31 +26,35 @@
     * 年龄统计
     * 性别统计
     * 最近更新统计
-    * _所属标签类别人数统计（预计加入到 3.0版本）_
-    * _联系密集度统计（预计加入到 3.0版本）_
+    * 所属标签类别人数统计
+    * 最近联系人统计（联系密集度）
 
   * 本软件基于Unicode编码制作，不会在输入外文（如：日文、韩文）的时候出现乱码。对于管理外国客户、朋友的信息非常有用。
   * 支持多国语言。中文版、英文版、日语版已可以下载，繁体中文版即将公开发布。
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip]
+[http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip]
 
 ==界面==
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
 
-[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_02.png]
+[http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_02.png]
 
 - 联系人编辑对话框
 
-[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-EditDlg-2.4.x_01.png]
+[http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-EditDlg-2.4.x_01.png]
 
 - 批量导入对话框
 
-[http://boomworks.googlecode.com/files/BingBook-2.4.54.0.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
+[http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
 
 == 更新 ==
+
+  * 2.4.93.9 - 2009/11/21
+    * 增加所属标签类别人数统计
+    * 增加最近联系人统计（联系密集度）
 
   * 2.4.54.0 - 2009/11/19
     * 增加从[BingBookImportFmtCN Excel文件]批量导入联系人功能
