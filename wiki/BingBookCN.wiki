@@ -34,7 +34,7 @@
 
 == 下载 ==
 
-[ http://boomworks.googlecode.com/files/BingBook-2.5.24.1.zip http://boomworks.googlecode.com/files/BingBook-2.5.24.1.zip]
+[http://boomworks.googlecode.com/files/BingBook-2.5.24.1.zip http://boomworks.googlecode.com/files/BingBook-2.5.24.1.zip]
 
 ==界面==
 
