@@ -3,7 +3,7 @@
 
   * [BingBookCN 天涯人脉通讯录2010(BingBook)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 一个集通讯录管理、客户关系管理、人脉管理于一身的管理软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
 
-  * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
+  * [SuperSearchCN 超级网搜(SuperSearch)] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
   * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。
 
@@ -11,15 +11,15 @@
 
   * [PCTimerCN PC关机精灵(PCTimer)] - 免费、易用、绿色的定时关机软件。具有定时“提醒/关机/待机/休眠/重启/注销”等功能。
 
-  * [DesktopAssistantCN 桌面整理助手(DesktopAssistant)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 自动化整理桌面放置的文件到预先设定好的文件夹。
+  * [DesktopAssistantCN 桌面整理助手(DesktopAssistant)] - 自动化整理桌面放置的文件到预先设定好的文件夹。
 
   * [ShowHelperCN 演示助手(ShowHelper)] - 是一款让您可以随意在屏幕上画画的软件。
 
   * [http://boomworks.googlecode.com/files/timer-1.0.zip 计时器(Timer)] - 免费、绿色的计时器小工具。
 
-== 编程开发相关软件 ==
+== 编程开发相关软件[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
- * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。
+ * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。
 
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
