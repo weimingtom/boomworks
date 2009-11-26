@@ -25,7 +25,7 @@
 
 == 预览版 ==
 
-  * [PreviewSoftCN 开发中的预览版软件][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - BoomWorks开发中的软件的预览版的介绍网页。
+  * [PreviewSoftCN 开发中的预览版软件] - BoomWorks开发中的软件的预览版的介绍网页。
 
 == 联系我们(Contact) ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
