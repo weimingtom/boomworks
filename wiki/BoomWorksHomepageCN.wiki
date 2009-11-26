@@ -7,7 +7,7 @@
 
   * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。
 
-  * [MindMapWordsCN MindMap背单词（MindMapWords][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 用脑图的形式来记忆单词的软件。
+  * [MindMapWordsCN MindMap背单词(MindMapWords)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 用脑图的形式来记忆单词的软件。
 
   * [PCTimerCN PC关机精灵(PCTimer)] - 免费、易用、绿色的定时关机软件。具有定时“提醒/关机/待机/休眠/重启/注销”等功能。
 
