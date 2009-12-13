@@ -8,8 +8,7 @@
   * シンプルな名刺管理ツール
   * 手軽にコンタクト情報の一元管理ができる
   * 人脈を可視化するので、ソーシャルグラフが価値になる
-  * Unicodeで実現し、多国言語GUIをサポートしている
-    （英語、簡体中国語、日本語） 
+  * Unicodeで実現し、多国言語GUIをサポートしている（英語、簡体中国語、日本語） 
 
 [http://boomworks.googlecode.com/files/BingBook-2.4.93.9.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-JP-3.0.x_01.png]
 
