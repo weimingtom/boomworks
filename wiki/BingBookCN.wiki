@@ -55,6 +55,10 @@
 
 [http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
 
+- 名片视图
+
+[http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_04.png]
+
 == 更新 ==
 
   * 2.5.31.5 - 2009/11/29
