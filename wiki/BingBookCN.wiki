@@ -25,7 +25,7 @@
   * 具有联系人管理模块（或者是客户管理、通讯录管理）
     * 保存联系历史记录
     * 人脉（分析、提醒、预告）管理
-    * _名片视图（预计加入到 3.0版本）_
+    * 名片视图
     * _关系视图（预计加入到 4.0版本）_
 
   * 支持对联系人的各种统计
@@ -40,27 +40,30 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip]
+[http://boomworks.googlecode.com/files/BingBook-3.0.1.0.zip http://boomworks.googlecode.com/files/BingBook-3.0.1.0.zip]
 
 ==界面==
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
 
-[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_03.png]
+[http://boomworks.googlecode.com/files/BingBook-3.0.1.0.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_03.png]
 
 - 联系人编辑对话框
 
-[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-EditDlg-2.4.x_01.png]
+[http://boomworks.googlecode.com/files/BingBook-3.0.1.0.zip http://boomworks.googlecode.com/files/BingBook-EditDlg-2.4.x_01.png]
 
 - 批量导入对话框
 
-[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
+[http://boomworks.googlecode.com/files/BingBook-3.0.1.0.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
 
 - 名片视图
 
-[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_05.png]
+[http://boomworks.googlecode.com/files/BingBook-3.0.1.0.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_05.png]
 
 == 更新 ==
+
+  * 3.0.1.0 - 2009/12/18
+    * 增加名片视图
 
   * 2.5.31.5 - 2009/11/29
     * 增加所属标签类别人数统计
