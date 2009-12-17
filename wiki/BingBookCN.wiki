@@ -58,7 +58,7 @@
 
 - 名片视图
 
-[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_04.png]
+[http://boomworks.googlecode.com/files/BingBook-2.5.31.5.zip http://boomworks.googlecode.com/files/BingBook-MainFrm-3.0.x_05.png]
 
 == 更新 ==
 
