@@ -60,6 +60,7 @@
 
 [http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://p.blog.csdn.net/images/p_blog_csdn_net/boomworks/EntryImages/20091227/BingBook-MainFrm-3.1.x_03.PNG]
 
+[http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://p.blog.csdn.net/images/p_blog_csdn_net/boomworks/EntryImages/20091227/BingBook-MainFrm-3.1.x_02.PNG]
 == 更新 ==
 
   * 3.1.52.0 - 2009/12/27
