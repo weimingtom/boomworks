@@ -45,6 +45,7 @@
 ==界面==
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
+
 [http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://p.blog.csdn.net/images/p_blog_csdn_net/boomworks/EntryImages/20091227/BingBook-MainFrm-3.1.x_01.png]
 
 [http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://p.blog.csdn.net/images/p_blog_csdn_net/boomworks/EntryImages/20091227/BingBook-MainFrm-3.1.x_03.PNG]
@@ -52,9 +53,11 @@
 [http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://p.blog.csdn.net/images/p_blog_csdn_net/boomworks/EntryImages/20091227/BingBook-MainFrm-3.1.x_02.PNG]
 
 - 联系人编辑对话框
+
 [http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://boomworks.googlecode.com/files/BingBook-EditDlg-2.4.x_01.png]
 
 - 批量导入对话框
+
 [http://boomworks.googlecode.com/files/BingBook-3.1.52.0.zip http://boomworks.googlecode.com/files/BingBook-ImportDlg-3.0.x_02.png]
 
 == 更新 ==
