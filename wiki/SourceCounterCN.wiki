@@ -28,22 +28,24 @@
 
 - 主界面
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
 
 - 参数设定窗口
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 
 == 下载地址(Download) ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.1.4.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip]
 
 
 == 更新(Update) ==
- * 2.5.1.4版 - BOOM 2009-10-21
+
+ * 2.5.5.9版 - BOOM 2009-12-7
   * 修正统计文件扩展名区分大小写的错误
   * 增加了对.inc文件类型的统计
+  * 韩国语对应（预计3.0版翻译完成）
 
  * 2.4.91.2版 - BOOM 2009-8-19
   * 增加对以下文件类型的统计支持
