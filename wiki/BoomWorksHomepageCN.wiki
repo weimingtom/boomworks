@@ -5,7 +5,7 @@
 
   * [SuperSearchCN 超级网搜(SuperSearch)] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
-  * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时关机”软件。具有功能多、体积小、消耗资源少的特点。
+  * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时执行”软件。具有功能多、体积小、消耗资源少的特点。
 
   * [MindMapWordsCN MindMap背单词(MindMapWords)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 用脑图的形式来记忆单词的软件。
 
