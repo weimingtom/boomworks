@@ -1,7 +1,7 @@
 #summary 超级网搜(SuperSearch) - 主页。
 #labels Featured
 
-== 简介(Introduction) ==
+== 介绍 ==
 
 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。主要功能和特点如下：
 
@@ -12,17 +12,18 @@
   * 快速：多线程加快搜索速度，多个引擎的搜索汇集，给你更高的搜索效率。 
 
 
-== 下载(Download) ==
+== 下载 ==
 
 [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip]
 
 
-== 截图(Screenshot) == 
+== 截图 == 
 
-  * [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_1.gif]
-  * [http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_2.gif]
+[http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_1.gif]
 
-== 最新版本发布(What's New) ==
+[http://boomworks.googlecode.com/files/SuperSearch-3.0.1.0.zip http://boomworks.googlecode.com/files/shot_2.gif]
+
+== 版本更新 ==
 
  * 3.0.1.0版 - Boom 2009-3-6
   * 更新“关于”对话框
@@ -43,5 +44,6 @@
   * bugfix File->New 菜单
 
 == 联系我们(Contact) ==
+
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
