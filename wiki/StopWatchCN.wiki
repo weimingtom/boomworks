@@ -1,13 +1,9 @@
-#summary Stopwatch homepage.
+#summary 秒表计数器(Stopwatch) - 主页。
 
-= Introduction =
+= 介绍 =
 
 Add your content here.
 
+== 下载 ==
 
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[http://down.boomworks.org here]
