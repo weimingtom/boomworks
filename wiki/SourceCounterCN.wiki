@@ -24,7 +24,13 @@
     * 简体中文、繁体中文、英文、日语
     * _韩语(预计加入3.0版本)_
 
-== 截图 ==
+
+== 下载地址(Download) ==
+
+[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip]
+
+
+== 界面截图 ==
 
 - 主界面
 
@@ -33,12 +39,6 @@
 - 参数设定窗口
 
 [http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
-
-
-== 下载地址(Download) ==
-
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip]
-
 
 == 更新(Update) ==
 
