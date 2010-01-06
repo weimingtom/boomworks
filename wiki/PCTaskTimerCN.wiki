@@ -1,23 +1,13 @@
 #summary PC定时执行专家(PCTaskTimer) - 中文主页。
 #labels Featured
 
-== 简介(Introduction) ==
+== 简介 ==
 
-功能强大、简单易用的“定时执行”软件。具有功能多、体积小、消耗资源少的特点。
+功能强大、简单易用的“定时执行”软件。具有功能多、体积小、消耗资源少的特点。无需安装，无使用时间限制，欢迎下载试用。
 
-有定时“提醒/关机/待机/休眠/重启/注销/关闭显示器/清空回收站 /执行屏幕保护/执行DOS命令”等功能。提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。全面支持Unicode，可在英文、日文等外文的 Windows 系统下能正常地使用此软件。
+提供“倒计时/伴随/具体时间/每时/每天/每周/每月/每年”8种时间指定方式，让你轻松设定。全面支持Unicode，可在英文、日文等外文的 Windows 系统下能正常地使用此软件。
 
-无需安装，无使用时间限制，欢迎下载试用。注意未注册用户不能使用全部功能，需要注册才能使用的功能请参考“主要功能和特点”。付费用户可享受技术支持和升级服务。
-
-
-== 下载地址(Download) ==
-
-[http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip]
-
-
-== 主要功能和特点(Features) ==
-
-  * [http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
+付费用户可享受技术支持和升级服务。未注册用户不能使用全部功能，需要注册才能使用的功能请参考如下说明：
 
   * 8 种时间指定方式（倒计时/ 伴随执行/ 具体时间/ 每时/ 每天/ 每周/ 每月/ 每年）
   * 定时关机 
@@ -40,10 +30,21 @@
   * 限制系统中只能运行一个“PC定时关机精灵” 
   * 最小化时自动变为托盘图标
   * 托盘图标的右键菜单（立即执行：关机、休眠、关闭显示器、重启动、注销） 
+
+== 下载 ==
+
+[http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip]
+
+
+== 界面 ==
+
+  * [http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://boomworks.googlecode.com/files/pctasktimer_shot_2.gif]
+
+
   * [http://boomworks.googlecode.com/files/PCTaskTimer-4.0.1.0.zip http://share.8844.com/eWebEditor/uploadfile/20070124231855384.jpg]
 
 
-== 最新版本发布(What's New) ==
+== 版本更新 ==
 
   * 4.0.1.0 版 - Boom 2009-3-6
     * 更新“关于”对话框
@@ -63,6 +64,6 @@
     * 功能细化为[日程提醒/系统功能/定期备份/定时关闭应用程序]
 
 
-== 联系我们(Contact) ==
+== 联系我们 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
