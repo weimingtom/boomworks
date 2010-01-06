@@ -1,9 +1,11 @@
 #labels Deprecated
-== 大众软件[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
+== 大众软件 ==
 
   * [BingBookCN 天涯人脉通讯录2010(BingBook)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 集通讯录管理、客户关系管理、人脉管理于一身的管理软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
 
-  * [SuperSearchCN 超级网搜(SuperSearch)] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
+  * [StopWatchCN 秒表计数器][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 秒表程序，能够记录多个时间点的秒数。操作简单，易于使用。
+
+  * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
 
   * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时执行”软件。具有功能多、体积小、消耗资源少的特点。
 
