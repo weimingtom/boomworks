@@ -6,13 +6,13 @@
 
 == 下载 ==
 
-[http://down.boomworks.org here]
+[http://boomworks.googlecode.com/files/StopWatch-1.1.zip http://boomworks.googlecode.com/files/StopWatch-1.1.zip]
 
 == 界面 ==
 
 - 主界面
 
-[http://boomworks.googlecode.com/files/Stopwatch-Main-CN_1.0.x_01.PNG]
+[http://boomworks.googlecode.com/files/StopWatch-1.1.zip http://boomworks.googlecode.com/files/Stopwatch-Main-CN_1.0.x_01.PNG]
 
 == 更新 ==
 
