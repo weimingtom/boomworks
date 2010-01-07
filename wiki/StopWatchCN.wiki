@@ -11,9 +11,12 @@
 == 界面 ==
 
 - 主界面
-[]
+[http://boomworks.googlecode.com/files/Stopwatch-Main-CN_1.0.x_01.PNG]
 
 == 更新 ==
+
+  * V1.0 - 2010/01/07
+    * 正式版发布
 
 == 联系我们 ==
 
