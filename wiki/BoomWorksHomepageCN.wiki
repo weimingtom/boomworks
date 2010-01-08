@@ -17,8 +17,6 @@
 
   * [ShowHelperCN 演示助手(ShowHelper)] - 是一款让您可以随意在屏幕上画画的软件。
 
-  * [http://boomworks.googlecode.com/files/timer-1.0.zip 计时器(Timer)] - 免费、绿色的计时器小工具。
-
 == 编程开发相关软件[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
  * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。
