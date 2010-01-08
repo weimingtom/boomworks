@@ -5,7 +5,7 @@
 == 列表 ==
 
   * [MindMapWordsCN MindMap背单词（MindMapWords）]
-  * 
+  * [http://boomworks.googlecode.com/files/timer-1.0.zip 计时器(Timer)] - 免费、绿色的计时器小工具。
 
 == 其他 ==
 
