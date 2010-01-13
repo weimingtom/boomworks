@@ -3,17 +3,15 @@
 
 == 介绍 ==
 
-计算你的女朋友值多少钱。
+女朋友价格计算器，计算你的女朋友值多少钱 ：-）
 
 == 下载 ==
 
-[]
+[http://boomworks.googlecode.com/files/GirlfriendCalc-1.0.zip http://boomworks.googlecode.com/files/GirlfriendCalc-1.0.zip]
 
 == 界面 ==
 
-[]
-
-[]
+[http://boomworks.googlecode.com/files/GirlfriendCalc-1.0.zip http://boomworks.googlecode.com/files/GirlfriendCalc-Main-CN-1.0.x_01.PNG]
 
 == 联系我们 ==
 
