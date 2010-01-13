@@ -1,4 +1,5 @@
 #summary 女朋友价格计算器 - 主页。
+#labels Featured
 
 == 介绍 ==
 
