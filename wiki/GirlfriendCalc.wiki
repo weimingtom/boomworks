@@ -13,8 +13,6 @@
 
 [http://boomworks.googlecode.com/files/GirlfriendCalc-1.0.zip http://boomworks.googlecode.com/files/GirlfriendCalc-Main-CN-1.0.x_01.PNG]
 
-[http://boomworks.googlecode.com/files/GirlfriendCalc-Main-CN-1.0.x_01.PNG]
-
 == 联系我们 ==
 
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
