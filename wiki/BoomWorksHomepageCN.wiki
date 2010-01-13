@@ -1,7 +1,7 @@
 #labels Deprecated
 == 大众软件 ==
 
-  * [GirlfriendCalc 女朋友价格计算器][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 计算你的女朋友值多少钱，呵呵！
+  * [GirlfriendCalc 男女朋友价格计算器][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 男女朋友价格计算器，计算你的男朋友或女朋友值多少钱 ：-） 
 
   * [BingBookCN 天涯人脉通讯录2010(BingBook)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 集通讯录管理、客户关系管理、人脉管理于一身的管理软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
 
