@@ -16,13 +16,13 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip]
 
 == 界面 ==
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.2.x_01.PNG]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.2.x_01.PNG]
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-AboutDlg-CN-1.2.x_01.PNG]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-AboutDlg-CN-1.2.x_01.PNG]
 
 == 更新 ==
 
