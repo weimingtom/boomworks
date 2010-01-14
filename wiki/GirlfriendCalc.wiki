@@ -6,11 +6,20 @@
 男女朋友价格计算器，计算你的朋友值多少钱，一款很有意思的娱乐软件。
 
 评判标准:
-
   * １３００以下的不能要
   * １３００～１８００的算是正常
   * ２０００以上的算是精品
   * 达到３０００及以上的，恭喜你！这辈子的幸福有着落了
+
+== 下载 ==
+
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip]
+
+== 界面 ==
+
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.2.x_01.PNG]
+
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-AboutDlg-CN-1.2.x_01.PNG]
 
 == 更新 ==
 
@@ -21,17 +30,6 @@
   * 1.1 - 2010/01/12
     * 实现基本功能
     * 女朋友价格计算功能
-
-== 下载 ==
-
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip]
-
-
-== 界面 ==
-
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.2.x_01.PNG]
-
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-AboutDlg-CN-1.2.x_01.PNG]
 
 == 联系我们 ==
 
