@@ -3,15 +3,17 @@
 
 == 介绍 ==
 
-男女朋友价格计算器，计算你的男朋友或女朋友值多少钱 ：-）
+男女朋友价格计算器，看看你的男朋友或女朋友值多少钱 ：-）
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.1.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.1.zip]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip]
 
 == 界面 ==
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.1.zip http://boomworks.googlecode.com/files/GirlfriendCalc-Main-CN-1.0.x_01.PNG]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.2.x_01.PNG]
+
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.2.zip http://boomworks.googlecode.com/files/BfGfCalculator-AboutDlg-CN-1.2.x_01.PNG]
 
 == 联系我们 ==
 
