@@ -18,6 +18,7 @@
   * ２０００以上的算是精品
   * 达到３０００及以上的，恭喜你！这辈子的幸福有着落了
 
+
 == 下载 ==
 
 [http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip]
@@ -35,6 +36,10 @@
 
 
 == 更新 ==
+
+  * 1.6 - 2010/01/15
+    * 增加多种感情计算模式
+    * 更新评价列表项目
 
   * 1.2 - 2010/01/14 
     * 增加男朋友价格计算功能
