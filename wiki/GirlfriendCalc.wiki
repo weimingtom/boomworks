@@ -21,7 +21,11 @@
 
 == 界面 ==
 
+- 计算结果
+
 [http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_02.PNG]
+
+- 主界面
 
 [http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_01.PNG]
 
