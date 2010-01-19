@@ -2,11 +2,15 @@
 
 == 介绍 ==
 
+自我分析软件，可以知道：
+
+  * 你的内在星座是什么？
+  * 你是什么类型的人？(2.0版本)
+  * 适合什么样的工作？(2.0版本) 
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip]
-
+[http://boomworks.googlecode.com/files/SelfAnalytics-1.0.zip http://boomworks.googlecode.com/files/SelfAnalytics-1.0.zip]
 
 == 界面 ==
 
