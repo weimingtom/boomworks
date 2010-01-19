@@ -5,6 +5,8 @@
 
   * [GirlfriendCalc 男女朋友价格计算器(BgGfCalculator)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 男女朋友价格、价钱计算器，计算你的朋友值多少钱，一款很有意思的娱乐软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
 
+  * [SelfAnalytics 自我分析][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 你的内在星座是什么？你是什么类型的人？适合什么样的工作？
+
   * [StopWatchCN 秒表计时器(Stopwatch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 秒表程序，能够记录多个时间点的秒数。操作简单，易于使用。
 
   * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、轻量、快速的多引擎搜索工具，拥有详细的搜索分类。
