@@ -17,7 +17,7 @@
 
 - 主界面
 
-[http://boomworks.googlecode.com/files/SelfAnalytics_Main_CN-1.0.x-01.png]
+[http://boomworks.googlecode.com/files/SelfAnalytics-1.0.zip http://boomworks.googlecode.com/files/SelfAnalytics_Main_CN-1.0.x-01.png]
 
 - 结果
 
