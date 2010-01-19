@@ -1,4 +1,5 @@
 #summary 自我分析软件 - 主页
+#labels Featured
 
 == 介绍 ==
 
@@ -14,13 +15,13 @@
 
 == 界面 ==
 
-- 结果
-
-[]
-
 - 主界面
 
-[]
+[http://boomworks.googlecode.com/files/SelfAnalytics_Main_CN-1.0.x-01.png]
+
+- 结果
+
+[http://boomworks.googlecode.com/files/SelfAnalytics_ResultDlg_CN-1.0.x-01.PNG]
 
 == 更新 ==
 
