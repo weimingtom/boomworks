@@ -1,0 +1,29 @@
+#summary 自我分析软件 - 主页
+
+== 介绍 ==
+
+
+== 下载 ==
+
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip]
+
+
+== 界面 ==
+
+- 结果
+
+[]
+
+- 主界面
+
+[]
+
+== 更新 ==
+
+  * 1.0 - 2010/01/19
+    * 实现基本功能
+
+== 作者 ==
+
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
