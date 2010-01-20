@@ -10,7 +10,7 @@
   * 可以自由添加评判项目和分值
   * 支持结果保存为 .html 文件格式
   * 本软件基于Unicode编码制作，不会在输入外文（如：日文、韩文）的时候出现乱码。
-  * 支持多国语言。中文版、英文版、日语版已可以下载，繁体中文版即将公开发布。 
+  * 支持多国语言。中文版、英文版已可以下载，繁体中文版即将公开发布。 
 
 评判标准如下:
   * １３００以下的不能要
@@ -21,21 +21,25 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.8.zip http://boomworks.googlecode.com/files/BfGfCalculator-1.8.zip]
 
 
 == 界面 ==
 
 - 计算结果
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_02.PNG]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.8.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_02.PNG]
 
 - 主界面
 
-[http://boomworks.googlecode.com/files/BfGfCalculator-1.6.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_01.PNG]
+[http://boomworks.googlecode.com/files/BfGfCalculator-1.8.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_01.PNG]
 
 
 == 更新 ==
+
+  * 1.8 - 2010/01/20
+    * 增加男朋友评价项目列表内容
+    * 增加特别感谢信息到关于对话框
 
   * 1.6 - 2010/01/15
     * 增加多种感情计算模式
