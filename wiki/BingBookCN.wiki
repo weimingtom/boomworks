@@ -46,7 +46,7 @@
 
 - 主界面（搜索中心、联系人视图、状态和提醒视图）
 
-[http://boomworks.googlecode.com/files/BingBook-3.4.1.0.zip https://u4tfyg.bay.livefilestore.com/y1mHiJnoCZdg27a3IOqdRHKhPMczWs_QAkcr21WLPLYE1Q4FPWzmTrv8T5GLOs6DZfZT5-gNHeCHsKk0iYwPOB4udIhm3x1Nu1KWUjKzO_QBgDtYW5hPrxWPKFV5NGSyrmxDydwirO_6z1P3KgNpIOQ7A/BingBook-Main-3.4.x_01.PNG]
+[http://boomworks.googlecode.com/files/BingBook-3.4.1.0.zip https://c1smaw.bay.livefilestore.com/y1m1fwqd76cxiu1k_zIXuBRmw_0MaepXWwmHRdiKVaHOn57kMN0u865l4ZQ4gYLyCs5d7NXP9KWd0rbv8e3zWrP34Li4OX4eSwKEXFK30t4kAtP8KRuGRFNV1RjLO5e5NAKwNSf49TqWw0SWzdf8-IOxQ/BingBook-Main-3.4.x_02.PNG]
 
 [http://boomworks.googlecode.com/files/BingBook-3.4.1.0.zip  https://u4tfyg.bay.livefilestore.com/y1mKRfTrEF_wgP_AIDRYjvIs_19XFxbHojilG0QTafwgUzaMupiDPa-bZkVV4NUwCtKn4MzKcTuzSiOedYZL3wPxfaDmUZwO16tFJiAyqm3fkV1ADD_AqtOfcHpCXvh0JINaAyDj7Tdi_dWbLin-8p4OA/BingBook-MainFrm-3.2.x_03.PNG]
 
