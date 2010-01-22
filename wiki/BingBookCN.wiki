@@ -1,5 +1,7 @@
-#summary 天涯人脉通讯录2010 - 主页。 [BingBookSpec 设计文档]
+#summary 天涯人脉通讯录2010 - 主页。
 #labels Featured
+
+[BingBookSpec 设计文档] - 
 
 == 介绍 ==
 
