@@ -1,7 +1,7 @@
 #summary 天涯人脉通讯录 - 设计文档
 #labels Featured
 
-[BingBook 主页]
+[BingBookCN 主页]
 
 == 名片设计 ==
 
