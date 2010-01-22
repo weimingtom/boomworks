@@ -1,7 +1,7 @@
 #summary 天涯人脉通讯录2010 - 主页。
 #labels Featured
 
-[BingBookSpec 设计文档] - 
+[BingBookSpec 设计文档] - [BingBookImportFmtCN 导入模板]
 
 == 介绍 ==
 
