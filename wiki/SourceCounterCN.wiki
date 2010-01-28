@@ -25,7 +25,7 @@
     * _韩语(预计加入3.0版本)_
 
 
-== 下载地址(Download) ==
+== 下载地址 ==
 
 [http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip]
 
@@ -40,7 +40,7 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
-== 更新(Update) ==
+== 更新 ==
 
  * 2.5.5.9版 - BOOM 2009-12-7
   * 修正统计文件扩展名区分大小写的错误
@@ -90,7 +90,7 @@
   * 支持多路径统计
   * 支持更多文件格式
 
-== 联系我们(Contact) ==
+== 联系我们 ==
 
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
