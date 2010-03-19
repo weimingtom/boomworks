@@ -16,11 +16,11 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-3.6.4.0.zip http://boomworks.googlecode.com/files/SuperSearch-3.6.4.0.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-3.7.3.57.zip http://boomworks.googlecode.com/files/SuperSearch-3.7.3.57.zip]
 
 == 截图 == 
 
-[http://boomworks.googlecode.com/files/SuperSearch-3.6.4.0.zip http://hi.csdn.net/attachment/201003/17/241195_126885153543bI.png]
+[http://hi.csdn.net/attachment/201003/17/241195_126885153543bI.png]
 
 == 版本更新 ==
 
