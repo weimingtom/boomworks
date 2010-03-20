@@ -1,7 +1,7 @@
 #labels Deprecated
-== 大众软件 ==
+== 大众软件[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
-  * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] - 免费、快速、高效的多引擎搜索工具，拥有数十个搜索引擎和详细的搜索分类。
+  * [SuperSearchCN 超级网搜(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费、快速、高效的多引擎搜索工具，拥有数十个搜索引擎和详细的搜索分类。
 
   * [BingBookCN 天涯人脉通讯录2010(BingBook)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 集通讯录管理、客户关系管理、人脉管理于一身的管理软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
 
