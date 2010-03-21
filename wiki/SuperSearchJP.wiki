@@ -1,30 +1,29 @@
-#summary スパーサーチ - SuperSearch - 日本語のホームページ｡
+#summary スーパーサーチ - SuperSearch - 日本語のホームページ｡
 #labels Featured
 
-= 紹介 =
+== 紹介 ==
 
-無料、高速です、高い効率の多いエンジンの捜索のツール、詳しい捜索する分類と60近くのサーチエンジンを持ちます。主要な機能は次の通りです：
+無料、高速、高効率の統合検索ツールです。詳しい検索するカテゴリおよび 60数個の検索エンジンを持ちます。主要な機能は次の通りです：
 
- * 一回のキー・ワードは入力して、多数のエンジンは同時に捜索して、捜索の効率を高めて、問題を解決する時間を減らします 
- * 内蔵して60近くのサーチエンジンを支持して、そして詳しい分類があります 
- * ユーザー定義のサーチエンジンの配置を支持して、ユーザーは自分で必要とするエンジンを添加することができます 
- * フルスクリーンのモードを支持して、捜索結果の表示する空間を増大します 
- * キー・ワードの保存 
- * 無料：登録する必要はなくて、いかなる機能の制限がありません 
- * 高速です：マルチスレッドは併発して実行して、捜索のスピードを加速します 
- * 多い国の言語は支持します（中国語、英文、日本語、韓国語） 
+ * 一回のキーワードを入力して、複数のエンジンで同時に検索して、検索の効率を高めて、問題を解決する時間を削減できます 
+ * 内蔵して60近くの検索エンジンおよび詳しいカテゴリ
+ * ユーザー定義のできる検索エンジンの管理機能を支持して、ユーザーは自分で必要とするエンジンを追加することができます 
+ * フルスクリーンのモードを支持して、結果の表示する空間を増大します 
+ * キーワードを保存する機能 
+ * 無料：登録する必要はなくて、機能制限もありません 
+ * 高速：マルチスレッドは並行して実行し、検索のスピードをアップします 
+ * 多国言語をサポートします（中国語、英文、日本語、韓国語） 
 
+== ダウンロード ==
 
-[http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_1.gif]
+[http://boomworks.googlecode.com/files/SuperSearch-4.3.7.41.zip http://boomworks.googlecode.com/files/SuperSearch-4.3.7.41.zip]
 
-= ダウンロード =
+== スクリーンショット ==
 
-[http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip]
+[https://u4tfyg.bay.livefilestore.com/y1mRBOld-12N9qMl9frvl5lNfDb4t3Rpw-pi-YqRAGUOkkhSU4hvo_2kP9BhWkcJkQpSaiCe6d8NMMQQsyiavip9qLdCxMCJd4qJ73Cq4bvmM5_Blkg6p2Sk2bXymjqBEvQqzw7CDtms7_PojSqL-9nqQ/SuperSearch-main-cn-4.3-04.PNG]
 
-= 詳細機能 =
+[https://u4tfyg.bay.livefilestore.com/y1mqwAKM96jCuvlmMJCvtnenzrVCXT46JJAtdry6aI5SbvrJCovQcD33UzPGD6SHK5-_9YG7D-JSNgBK62oYyxkObXC44bD4cRCksevsOltb7YqSjvGF0sXpIGuA1q5H6mvPQLrYXtHhYl4X3Y7xFdVqg/SuperSearch-main-cn-4.3-01.PNG]
 
-[http://boomworks.googlecode.com/files/supersearch-2.1.2.4.zip http://boomworks.googlecode.com/files/shot_2.gif]
-
-= 連絡先 =
+== 連絡先 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
