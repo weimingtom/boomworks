@@ -16,14 +16,14 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-4.0.1.4.zip http://boomworks.googlecode.com/files/SuperSearch-4.0.1.4.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-4.3.7.41.zip http://boomworks.googlecode.com/files/SuperSearch-4.3.7.41.zip]
 
 == 截图 == 
 
 [http://hi.csdn.net/attachment/201003/17/241195_126885153543bI.png]
 
 == 版本更新 ==
- * 4.0.1.4 - BOOM 2010-3-20
+ * 4.3.7.41 - BOOM 2010-3-20
   * 记忆检索关键字
   * 记忆窗口的大小和位置
   * 支持 UTF-8 URL编码的
