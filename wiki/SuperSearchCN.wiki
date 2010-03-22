@@ -16,7 +16,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-4.3.7.41.zip http://boomworks.googlecode.com/files/SuperSearch-4.3.7.41.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-4.5.19.46.zip http://boomworks.googlecode.com/files/SuperSearch-4.5.19.46.zip]
 
 == 截图 == 
 
@@ -25,13 +25,16 @@
 [https://u4tfyg.bay.livefilestore.com/y1mqwAKM96jCuvlmMJCvtnenzrVCXT46JJAtdry6aI5SbvrJCovQcD33UzPGD6SHK5-_9YG7D-JSNgBK62oYyxkObXC44bD4cRCksevsOltb7YqSjvGF0sXpIGuA1q5H6mvPQLrYXtHhYl4X3Y7xFdVqg/SuperSearch-main-cn-4.3-01.PNG]
 
 == 版本更新 ==
- * 4.3.7.41 - BOOM 2010-3-20
-  * 加入设定对话框
-   * 记忆检索关键字
-   * 记忆窗口的大小和位置
+ * 4.5.19.46 - BOOM 2010-3-22
+  * bugfix - 修正关闭程序时候出现异常的问题
   * 加入各种快捷键支持
   * 加入对日语和简体中文的支持
-  * 支持 UTF-8 URL编码的
+
+ * 4.3.7.41 - BOOM 2010-3-20
+   * 加入设定对话框
+     * 记忆检索关键字
+     * 记忆窗口的大小和位置
+   * 支持 UTF-8 URL编码的
 
  * 3.6.3.62版 - BOOM 2010-3-18
   * 支持自定义搜索引擎
