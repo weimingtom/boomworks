@@ -25,7 +25,7 @@
 [https://u4tfyg.bay.livefilestore.com/y1mqwAKM96jCuvlmMJCvtnenzrVCXT46JJAtdry6aI5SbvrJCovQcD33UzPGD6SHK5-_9YG7D-JSNgBK62oYyxkObXC44bD4cRCksevsOltb7YqSjvGF0sXpIGuA1q5H6mvPQLrYXtHhYl4X3Y7xFdVqg/SuperSearch-main-cn-4.3-01.PNG]
 
 == 版本更新 ==
- * 4.5.19.46 - BOOM 2010-3-22
+ * 4.5.25.70 - BOOM 2010-3-23
   * bugfix - 修正关闭程序时候出现异常的问题
   * 加入各种快捷键支持
   * 加入对日语和简体中文的支持
