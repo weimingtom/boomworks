@@ -16,7 +16,7 @@
 
 == ダウンロード ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-4.5.19.46.zip http://boomworks.googlecode.com/files/SuperSearch-4.5.19.46.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-4.5.25.70.zip http://boomworks.googlecode.com/files/SuperSearch-4.5.25.70.zip]
 
 == スクリーンショット ==
 
