@@ -20,9 +20,21 @@
 
 == 截图 == 
 
-[https://u4tfyg.bay.livefilestore.com/y1mRBOld-12N9qMl9frvl5lNfDb4t3Rpw-pi-YqRAGUOkkhSU4hvo_2kP9BhWkcJkQpSaiCe6d8NMMQQsyiavip9qLdCxMCJd4qJ73Cq4bvmM5_Blkg6p2Sk2bXymjqBEvQqzw7CDtms7_PojSqL-9nqQ/SuperSearch-main-cn-4.3-04.PNG]
+- 全屏模式，更大浏览空间
+[https://u4tfyg.bay.livefilestore.com/y1m7tdsOnsUpNhVvISFCO9V-TaTGlJJAZ0n5AS9JtdSwu_CnP_wjKaBr5D7pTB7A3pYGdhhXM4Pc0VmkXkntUyYwUk3QixGzffJ9ws3JqLANwV6YYbrp-KhYZn6etn79Ja4P1P1wXMJZ9z9NXNzAGhSmw/SuperSearch-main-cn-4.6-05.PNG]
+
+- 英文图片搜索
+[https://u4tfyg.bay.livefilestore.com/y1m2pC7L39z-HKCQYTEXFjzY-mD_-uKFV5v21W_o0URK0Lz-Z8s5zW2yzUw6lpAc1dHNkEtdaWiWpBO4rqOpVIuyh4H4KPmI_hhF4lpMppQqXC6WKqhwJ9vavfjE4Um4Qdxwd4ndc4CcBSo-dovTfFOWw/SuperSearch-main-cn-4.6-04.PNG]
+
+- 日文图片搜索
+[https://u4tfyg.bay.livefilestore.com/y1mVc6ZZCs2L_tFu7MJdYVnMlfnAGHmdF-sKQC9miekyPmTMtErag9VYJvRGgtFk0TQmtQBz1PmzI74cdr8sJOuNKKBKKdOYdSJqavbxdB_b6WNcQqIxlbW0ItnbNOZYN8NcopCP3gXR19506_Uxvf_hA/SuperSearch-main-cn-4.6-03.PNG]
+
+- 初始状态
+[https://u4tfyg.bay.livefilestore.com/y1mKMSPZehqWqtjHXOvJArVrM8YENWVqi1wNR3NkL5l9FPoKM0fqU3qT9XFb8XI-QkxkeYLdPmfkYRZFSpQ58MYyItRJoAjMQa2YTLR3Q5W_8YOUWxvAV8_-4UU1pCvKmrhbi5jGHlP8eYrmgxpcKIwUQ/SuperSearch-main-cn-4.6-01.PNG]
 
 [https://u4tfyg.bay.livefilestore.com/y1mqwAKM96jCuvlmMJCvtnenzrVCXT46JJAtdry6aI5SbvrJCovQcD33UzPGD6SHK5-_9YG7D-JSNgBK62oYyxkObXC44bD4cRCksevsOltb7YqSjvGF0sXpIGuA1q5H6mvPQLrYXtHhYl4X3Y7xFdVqg/SuperSearch-main-cn-4.3-01.PNG]
+
+[https://u4tfyg.bay.livefilestore.com/y1mRBOld-12N9qMl9frvl5lNfDb4t3Rpw-pi-YqRAGUOkkhSU4hvo_2kP9BhWkcJkQpSaiCe6d8NMMQQsyiavip9qLdCxMCJd4qJ73Cq4bvmM5_Blkg6p2Sk2bXymjqBEvQqzw7CDtms7_PojSqL-9nqQ/SuperSearch-main-cn-4.3-04.PNG]
 
 == 版本更新 ==
   * 4.6.32.51 - BOOM 2010-3-24
