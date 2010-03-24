@@ -16,7 +16,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-4.6.31.42.zip http://boomworks.googlecode.com/files/SuperSearch-4.6.31.42.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-4.6.32.51.zip http://boomworks.googlecode.com/files/SuperSearch-4.6.32.51.zip]
 
 == 截图 == 
 
@@ -25,6 +25,11 @@
 [https://u4tfyg.bay.livefilestore.com/y1mqwAKM96jCuvlmMJCvtnenzrVCXT46JJAtdry6aI5SbvrJCovQcD33UzPGD6SHK5-_9YG7D-JSNgBK62oYyxkObXC44bD4cRCksevsOltb7YqSjvGF0sXpIGuA1q5H6mvPQLrYXtHhYl4X3Y7xFdVqg/SuperSearch-main-cn-4.3-01.PNG]
 
 == 版本更新 ==
+  * 4.6.32.51 - BOOM 2010-3-24
+    * 修正关闭程序是的页面闪烁问题
+    * 修正由引擎较多页面切换到引擎较少页面后，IE页面显示和刷新不正常现象
+    * 增加了更多的搜索引擎 - 此版本内置引擎数量达到１０６个
+    * 增加了状态栏的显示信息 - 包含：URL、引擎统计、主窗口大小
 
  * 4.5.35.16 - BOOM 2010-3-23
    * bugfix - 修正关闭程序时候出现异常的问题
