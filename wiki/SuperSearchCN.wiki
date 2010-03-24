@@ -16,7 +16,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-4.5.35.16.zip http://boomworks.googlecode.com/files/SuperSearch-4.5.35.16.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-4.6.31.42.zip http://boomworks.googlecode.com/files/SuperSearch-4.6.31.42.zip]
 
 == 截图 == 
 
@@ -27,39 +27,39 @@
 == 版本更新 ==
 
  * 4.5.35.16 - BOOM 2010-3-23
-  * bugfix - 修正关闭程序时候出现异常的问题
-  * 加入各种快捷键支持
-  * 加入对日语和简体中文的支持
+   * bugfix - 修正关闭程序时候出现异常的问题
+   * 加入各种快捷键支持
+   * 加入对日语和简体中文的支持
 
  * 4.3.7.41 - BOOM 2010-3-20
    * 加入设定对话框
      * 记忆检索关键字
      * 记忆窗口的大小和位置
-   * 支持 UTF-8 URL编码的
+   * 支持 UTF-8 URL编码
 
  * 3.6.3.62版 - BOOM 2010-3-18
-  * 支持自定义搜索引擎
-  * 更新界面设计，加大网页显示空间
+   * 支持自定义搜索引擎
+   * 更新界面设计，加大网页显示空间
 
  * 3.0.1.0 - BOOM 2009-3-6
-  * 更新“关于”对话框
-  * 使用新域名www.boomworks.org 
+    * 更新“关于”对话框
+    * 使用新域名www.boomworks.org
 
  * 2.0.2.4 - BOOM 2006-3-4
-  * 更新日文搜索引擎
+   * 更新日文搜索引擎
 
  * 2.0.1.4 - BOOM 2006-2-22
-  * 更换工具栏图标
-  * 增加[使用多线程]设定项
-  * 增加 Special thanks
+   * 更换工具栏图标
+   * 增加[使用多线程]设定项
+   * 增加 Special thanks
 
  * 1.6.8.4 - BOOM 2006-2-13
-  * 增加工具栏按钮
-  * 增加检测更新功能
-  * 增加 TabCtrl 的状态图标
-  * bugfix File->New 菜单
+   * 增加工具栏按钮
+   * 增加检测更新功能
+   * 增加 TabCtrl 的状态图标
+   * bugfix - File菜单
 
 == 联系我们(Contact) ==
 
-  * [mailto:boomworks@gmail.com boomworks@gmail.com]
-  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
+ * [mailto:boomworks@gmail.com boomworks@gmail.com]
+ * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
