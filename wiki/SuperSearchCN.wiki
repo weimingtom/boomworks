@@ -1,4 +1,4 @@
-#summary 超级网际搜索(SuperSearch) - 主页。
+#summary 超级网搜(SuperSearch) - 主页。
 #labels Featured
 
 == 介绍 ==
