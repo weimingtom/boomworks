@@ -41,6 +41,8 @@
 [https://u4tfyg.bay.livefilestore.com/y1mRBOld-12N9qMl9frvl5lNfDb4t3Rpw-pi-YqRAGUOkkhSU4hvo_2kP9BhWkcJkQpSaiCe6d8NMMQQsyiavip9qLdCxMCJd4qJ73Cq4bvmM5_Blkg6p2Sk2bXymjqBEvQqzw7CDtms7_PojSqL-9nqQ/SuperSearch-main-cn-4.3-04.PNG]
 
 == 版本更新 ==
+ * 4.8.10.55 - BOOM 2010-3-27
+   * 增加搜索引擎到１４０个
 
  * 4.6.32.51 - BOOM 2010-3-24
    * 修正关闭程序时的页面闪烁问题
