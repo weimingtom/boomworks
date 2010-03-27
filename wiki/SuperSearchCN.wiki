@@ -20,6 +20,10 @@
 
 == 截图 == 
 
+- 启动状态
+
+[https://u4tfyg.bay.livefilestore.com/y1mKMSPZehqWqtjHXOvJArVrM8YENWVqi1wNR3NkL5l9FPoKM0fqU3qT9XFb8XI-QkxkeYLdPmfkYRZFSpQ58MYyItRJoAjMQa2YTLR3Q5W_8YOUWxvAV8_-4UU1pCvKmrhbi5jGHlP8eYrmgxpcKIwUQ/SuperSearch-main-cn-4.6-01.PNG]
+
 - 全屏模式，更大浏览空间
 
 [https://u4tfyg.bay.livefilestore.com/y1m7tdsOnsUpNhVvISFCO9V-TaTGlJJAZ0n5AS9JtdSwu_CnP_wjKaBr5D7pTB7A3pYGdhhXM4Pc0VmkXkntUyYwUk3QixGzffJ9ws3JqLANwV6YYbrp-KhYZn6etn79Ja4P1P1wXMJZ9z9NXNzAGhSmw/SuperSearch-main-cn-4.6-05.PNG]
@@ -31,10 +35,6 @@
 - 日文图片搜索
 
 [https://u4tfyg.bay.livefilestore.com/y1mVc6ZZCs2L_tFu7MJdYVnMlfnAGHmdF-sKQC9miekyPmTMtErag9VYJvRGgtFk0TQmtQBz1PmzI74cdr8sJOuNKKBKKdOYdSJqavbxdB_b6WNcQqIxlbW0ItnbNOZYN8NcopCP3gXR19506_Uxvf_hA/SuperSearch-main-cn-4.6-03.PNG]
-
-- 初始状态
-
-[https://u4tfyg.bay.livefilestore.com/y1mKMSPZehqWqtjHXOvJArVrM8YENWVqi1wNR3NkL5l9FPoKM0fqU3qT9XFb8XI-QkxkeYLdPmfkYRZFSpQ58MYyItRJoAjMQa2YTLR3Q5W_8YOUWxvAV8_-4UU1pCvKmrhbi5jGHlP8eYrmgxpcKIwUQ/SuperSearch-main-cn-4.6-01.PNG]
 
 [https://u4tfyg.bay.livefilestore.com/y1mqwAKM96jCuvlmMJCvtnenzrVCXT46JJAtdry6aI5SbvrJCovQcD33UzPGD6SHK5-_9YG7D-JSNgBK62oYyxkObXC44bD4cRCksevsOltb7YqSjvGF0sXpIGuA1q5H6mvPQLrYXtHhYl4X3Y7xFdVqg/SuperSearch-main-cn-4.3-01.PNG]
 
