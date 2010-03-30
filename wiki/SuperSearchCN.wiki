@@ -40,7 +40,8 @@
 
 [https://u4tfyg.bay.livefilestore.com/y1mRBOld-12N9qMl9frvl5lNfDb4t3Rpw-pi-YqRAGUOkkhSU4hvo_2kP9BhWkcJkQpSaiCe6d8NMMQQsyiavip9qLdCxMCJd4qJ73Cq4bvmM5_Blkg6p2Sk2bXymjqBEvQqzw7CDtms7_PojSqL-9nqQ/SuperSearch-main-cn-4.3-04.PNG]
 
-== 版本更新 ==
+== 更新 ==
+
  * 5.1.28.94 - BOOM 2010-3-30
    * 支持自定义搜索引擎的显示顺序
 
@@ -86,7 +87,7 @@
    * 增加 TabCtrl 的状态图标
    * bugfix - File菜单
 
-== 联系我们(Contact) ==
+== 作者 ==
 
  * [mailto:boomworks@gmail.com boomworks@gmail.com]
  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
