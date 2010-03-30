@@ -1,7 +1,7 @@
 #labels Featured
 == ソフトウェアリスト[http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
- * [SuperSearchJP スーパーサーチ][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png] - フリーで、効率によい統合検索ツールです。一回だけで、キーワードを入力して複数の検索エンジンで同時に検索できるソフトソフトです。
+ * [SuperSearchJP スーパーサーチ][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png] - フリーで、効率によい統合検索ツールです。一回だけで、キーワードを入力して複数の検索エンジンで同時に検索できるソフトです。
 
  * [BingBookJP 天涯人脈管理２０１０][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png]  - 連絡先管理、顧客管理、人脈管理の統合ツールです。フリーソフトで、インストール不要、USBディスクで格納して、どこでも使えます。
 
