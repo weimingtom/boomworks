@@ -3,10 +3,10 @@
 
 == Introduction ==
 
-Free, fast and efficient multi-engine search tool, with nearly 60 search engines and a detailed search categories. Main functions are as follows:
+Free, fast and efficient multi-engine search tool, with more than 140 search engines and many searching categories. Main functions are as follows:
 
-    * A keyword input, multiple search engines at the same time, improve search efficiency and reduce the time to solve the problem
-    * Built-in support for nearly 60 search engines, and a detailed breakdown
+    * A keyword input once, multiple search engines searching at the same time, improve searching efficiency and reduce your time to solve the problem
+    * Built-in support for more than 140 search engines, and many searching categories
     * Support for custom search engine configuration, the user can add their own needs engine
     * Support full-screen mode, increase the display space for search results
     * Save keywords
