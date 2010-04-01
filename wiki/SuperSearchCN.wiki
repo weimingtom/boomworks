@@ -17,7 +17,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-5.1.28.94.zip http://boomworks.googlecode.com/files/SuperSearch-5.1.28.94.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-5.2.41.53.zip http://boomworks.googlecode.com/files/SuperSearch-5.2.41.53.zip]
 
 == 截图 == 
 
@@ -43,8 +43,10 @@
 
 == 更新 ==
 
- * 5.1.28.94 - BOOM 2010-3-30
+ * 5.2.41.53 - BOOM 2010-4-2
+   * 增加搜索引擎到１４７个
    * 增加搜索引擎的显示顺序设定功能，可自定义搜索引擎的显示顺序
+   * 支持对搜索引擎的索引（Index）修改
 
  * 4.8.10.55 - BOOM 2010-3-27
    * 增加搜索引擎到１４０个
