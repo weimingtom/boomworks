@@ -31,6 +31,6 @@
 
   * [PreviewSoftCN 开发中的预览版软件] - BoomWorks开发中的软件的预览版的介绍网页。
 
-== 联系我们(Contact) ==
+== 联系我们 ==
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
  * [mailto:boomworks@hotmail.com boomworks@hotmail.com] 
