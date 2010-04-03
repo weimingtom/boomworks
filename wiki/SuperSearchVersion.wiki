@@ -1,1 +1,1 @@
-$[http://boomworks.googlecode.com/files/SuperSearch-5.2.41.53.zip 5.6.2.35]$
+$[http://boomworks.googlecode.com/files/SuperSearch-5.2.41.53.zip 5.9.2.35]$
