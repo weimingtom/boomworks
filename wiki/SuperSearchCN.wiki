@@ -17,7 +17,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-5.3.11.42.zip http://boomworks.googlecode.com/files/SuperSearch-5.3.11.42.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-5.3.12.49.zip http://boomworks.googlecode.com/files/SuperSearch-5.3.12.49.zip]
 
 == 截图 == 
 
