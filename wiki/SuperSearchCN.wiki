@@ -46,8 +46,10 @@
 [https://u4tfyg.bay.livefilestore.com/y1mHS0RYOpYtYVVnnNQSvvGBiO0sCAiofCks9SorsvKje6yJ8tKw5y5FdgfEiFNSuv1FTNx-fVxNAKMfbCQrZdeVg9G_j1d5-B2zeeB9uEIeP9thBTSlHy50je1Ah4fnislpkok8FdpbvAshE_HY1bDwg/SuperSearch-main-cn-5.2-01.PNG]
 
 == 更新 ==
- * 5.3.11.42 - BOOM 2010-4-4
+
+ * 5.3.12.49 - BOOM 2010-4-5
    * 增加在线版本更新检查功能
+   * 精简工具栏（删除检查更新、关于图标）
 
  * 5.2.41.53 - BOOM 2010-4-2
    * 增加搜索引擎到１４７个
