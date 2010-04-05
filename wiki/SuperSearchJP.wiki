@@ -16,7 +16,7 @@
 
 == ダウンロード ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-5.2.41.53.zip http://boomworks.googlecode.com/files/SuperSearch-5.2.41.53.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-5.3.12.49.zip http://boomworks.googlecode.com/files/SuperSearch-5.3.12.49.zip]
 
 == スクリーンショット ==
 
@@ -30,6 +30,6 @@
 
 [https://u4tfyg.bay.livefilestore.com/y1mhEn_HnADcsWBCLf6MdRIeY6eIcV6JBlF_mngILBAAqMoMUN6bScoVwudOtWXxO9RHcf95HDYHUYioECmqzveu4ccRa1pMu-PDIwuKYynZ1bXgANtEQOnu7pQgiH9fR-dnn8qa26ejzDlrJIRQoAiMg/SuperSearch-main-jp-5.2-03.PNG]
 
-== 連絡先 ==
+== 作者への問い合わせ先 ==
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
   * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
