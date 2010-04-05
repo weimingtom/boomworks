@@ -21,13 +21,23 @@
 
 == スクリーンショット ==
 
+■ウェブ検索
+
 [https://u4tfyg.bay.livefilestore.com/y1mgQnxg-5n_-bKk_T_leVZY4QvgwjTMqXQWCeBCJd3H54OM7MLn9lKhLoKmId_SVDdMCi_vdNgDDCE95_O6B_OpRP7bmCmJ9Ar4Tv3Q_SgkLQ9iEIvil0rb4REj34NOfDRcSJui3mfB6gbb_eH-ZGJLQ/SuperSearch-main-jp-5.2-02.PNG]
+
+■画像検索
 
 [https://u4tfyg.bay.livefilestore.com/y1m2SLLf5kLoJOBs7mdAQEdJrjuUSGhLcX_mtX9IqHS78EP6IAeC2VdCTZi9BG-uXhDBS_kRgIfLO-Eec2y-jrgGvf8E8AsA5r9fWwRkYTKTbgm2vkUB1eIWRpC_kj5JW1-drDigo7lO6V2YGlshd0K7A/SuperSearch-main-jp-5.2-01.PNG]
 
+■フルスクリーン、フルスクリーンの設定ダイアログ
+
 [https://u4tfyg.bay.livefilestore.com/y1m9d4oozbyKBI3n5EAYtCL_GnN1xL0VvoAbJvbYugmyDgAVRxgzByufAwEZvlMlqg2pm7kk2yTRYdKNEj1Vt3s454ypiYqzie-rps99VQ00FTiWgSyNiZdT4G58FNErHnUsRLViOQYf6-HrX9c0KWcjg/SuperSearch-main-jp-5.2-00.PNG]
 
+■動画検索
+
 [https://u4tfyg.bay.livefilestore.com/y1mqIuV5pv1mUWwXesK-8Ci6twcW_JvAwDdaZWhCv_6ljB5WUtery3lksFYm5KLNRPqRMUoKGZFfvhwiZFbquzxWRQ0QVFeb8nwSUeDdf5C8hZsv7dbS6xXndPaSdPfUnL-6N93Fljl2s2HeqAyZI_TCA/SuperSearch-main-jp-5.2-04.PNG]
+
+■ブログ検索
 
 [https://u4tfyg.bay.livefilestore.com/y1mhEn_HnADcsWBCLf6MdRIeY6eIcV6JBlF_mngILBAAqMoMUN6bScoVwudOtWXxO9RHcf95HDYHUYioECmqzveu4ccRa1pMu-PDIwuKYynZ1bXgANtEQOnu7pQgiH9fR-dnn8qa26ejzDlrJIRQoAiMg/SuperSearch-main-jp-5.2-03.PNG]
 
