@@ -17,7 +17,7 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-5.3.12.49.zip http://boomworks.googlecode.com/files/SuperSearch-5.3.12.49.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-5.3.40.89.zip http://boomworks.googlecode.com/files/SuperSearch-5.3.40.89.zip]
 
 == 截图 == 
 
@@ -46,6 +46,9 @@
 [https://u4tfyg.bay.livefilestore.com/y1mHS0RYOpYtYVVnnNQSvvGBiO0sCAiofCks9SorsvKje6yJ8tKw5y5FdgfEiFNSuv1FTNx-fVxNAKMfbCQrZdeVg9G_j1d5-B2zeeB9uEIeP9thBTSlHy50je1Ah4fnislpkok8FdpbvAshE_HY1bDwg/SuperSearch-main-cn-5.2-01.PNG]
 
 == 更新 ==
+ * 5.3.40.89 - BOOM 2010-4-7
+   * 增加在状态栏显示鼠标指向的链接
+   * 在状态栏显示网页加载过程和完成状态
 
  * 5.3.12.49 - BOOM 2010-4-5
    * 增加在线版本更新检查功能
