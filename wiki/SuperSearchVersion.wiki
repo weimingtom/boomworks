@@ -1,4 +1,4 @@
 #summary 超级网际搜索 - SuperSearch - 超级网搜 - Latest version link
 #labels Featured
 
-$[http://boomworks.googlecode.com/files/SuperSearch-5.5.0.95.zip 5.5.0.95]$
+$[http://boomworks.googlecode.com/files/SuperSearch-5.5.8.28.zip 5.5.8.28]$
