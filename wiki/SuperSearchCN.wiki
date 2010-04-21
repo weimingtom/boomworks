@@ -47,7 +47,8 @@
 [https://u4tfyg.bay.livefilestore.com/y1mHS0RYOpYtYVVnnNQSvvGBiO0sCAiofCks9SorsvKje6yJ8tKw5y5FdgfEiFNSuv1FTNx-fVxNAKMfbCQrZdeVg9G_j1d5-B2zeeB9uEIeP9thBTSlHy50je1Ah4fnislpkok8FdpbvAshE_HY1bDwg/SuperSearch-main-cn-5.2-01.PNG]
 
 == 更新 ==
- * 5.5.8.28 - BOOM 2010-4-11
+ * 5.6.13.64 - BOOM 2010-4-22
+   * 修正VPN联网状态下频繁弹出提示窗口问题
    * 增加关键字输入提示功能(使用Google Suggestion)
 
  * 5.3.40.89 - BOOM 2010-4-7
