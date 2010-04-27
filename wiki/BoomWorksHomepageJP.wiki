@@ -1,4 +1,6 @@
+#summary BOOM のソフト作品のホームページです。
 #labels Featured
+
 == ソフトウェアリスト[http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
  * [SuperSearchJP スーパーサーチ][http://down.boomworks.net/ http://srccounter.googlecode.com/files/img-new.png] - フリーで、効率によい統合検索ツールです。一回だけで、キーワードを入力して複数の検索エンジンで同時に検索できるソフトです。
