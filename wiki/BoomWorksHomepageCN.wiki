@@ -1,4 +1,6 @@
+#summary BOOM 的软件作品主页。
 #labels Deprecated
+
 == 大众软件[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
   * [SuperSearchCN 超级网际搜索(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费、快速、高效的多引擎搜索工具，内置１４０多个国内外搜索引擎，并拥有详细的搜索分类。
