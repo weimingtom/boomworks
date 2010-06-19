@@ -9,9 +9,7 @@
 
   * [StopWatchCN 秒表计时器(Stopwatch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 秒表程序，能够记录多个时间点的秒数。操作简单，易于使用。
 
-  * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的“定时执行”软件。具有功能多、体积小、消耗资源少的特点。
-
-  * [MindMapWordsCN MindMap背单词(MindMapWords)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 用脑图的形式来记忆单词的软件。
+  * [PCTaskTimerCN PC定时执行专家(PCTaskTimer)] - 功能强大、简单易用的定时执行软件。具有功能多、体积小、消耗资源少的特点。
 
   * [PCTimerCN PC关机精灵(PCTimer)] - 免费、易用、绿色的定时关机软件。具有定时“提醒/关机/待机/休眠/重启/注销”等功能。
 
@@ -32,6 +30,8 @@
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
 == 预览版 ==
+
+  * [MindMapWordsCN MindMap背单词(MindMapWords)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 用脑图的形式来记忆单词的软件。
 
   * [PreviewSoftCN 开发中的预览版软件] - BoomWorks开发中的软件的预览版的介绍网页。
 
