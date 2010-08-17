@@ -2,11 +2,14 @@
 
 == 介绍 ==
 
-完美实现天涯社区宝箱的只看楼主功能，绿色、免费、免安装。 
+实现天涯社区宝箱的只看楼主功能，绿色、免费、免安装。 
+
+ * 支持多位作者过滤
+ * 附带书签功能，阅读长帖非常方便
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/TianyaTool-1.0.20.79.zip http://boomworks.googlecode.com/files/TianyaTool-1.0.20.79.zip]
+[http://boomworks.googlecode.com/files/TianyaTool-1.0.29.7.zip http://boomworks.googlecode.com/files/TianyaTool-1.0.29.7.zip]
 
 == 截图 == 
 
@@ -16,7 +19,7 @@
 
 == 更新 ==
 
- * 1.0.20.79 - BOOM 2010-8-17
+ * 1.0.29.7 - BOOM 2010-8-17
    * 实现天涯社区只看楼主功能
 
 == 作者 ==
