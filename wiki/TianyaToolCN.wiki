@@ -6,16 +6,15 @@
 
 == 下载 ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-5.6.25.17.zip http://boomworks.googlecode.com/files/SuperSearch-5.6.25.17.zip]
+[http://boomworks.googlecode.com/files/TianyaTool-1.0.20.79.zip http://boomworks.googlecode.com/files/TianyaTool-1.0.20.79.zip]
 
 == 截图 == 
 
 
 == 更新 ==
 
- * 5.6.25.17 - BOOM 2010-7-12
-   * 增加清空搜索结果功能
-
+ * 1.0.20.79 - BOOM 2010-8-17
+   * 实现天涯社区只看楼主功能
 
 == 作者 ==
 
