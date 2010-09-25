@@ -28,7 +28,7 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
 
-*本工具默认给出各种质量指标和工数、成本指标等都是参考值，请根据各个公司、个人的情况调整。*
+*本工具默认给出各种质量指标和工数、成本指标等都是业内的参考值，用户可以根据各个公司、个人的情况调整。*
 
  * 质量指标设定
   * 单元测试（Unit Testing）
