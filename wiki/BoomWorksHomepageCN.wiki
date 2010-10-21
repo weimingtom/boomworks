@@ -33,6 +33,8 @@
 
 == 预览版 ==
 
+  * [PcSchedulerCN 定时执行专家][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 定时执行软件。
+
   * [MindMapWordsCN MindMap背单词(MindMapWords)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 用脑图的形式来记忆单词的软件。
 
   * [PreviewSoftCN 开发中的预览版软件] - BoomWorks开发中的软件的预览版的介绍网页。
