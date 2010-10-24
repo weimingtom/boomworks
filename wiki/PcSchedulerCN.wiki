@@ -1,4 +1,4 @@
-#summary 定时执行专家(PC Scheduler) - 主页。
+#summary 定时执行专家(PC Scheduler) - 主页，提高你的工作效率。
 #labels Featured
 [http://boomworks.googlecode.com/files/sweetbee-s-avile-20080629.jpg]
 
