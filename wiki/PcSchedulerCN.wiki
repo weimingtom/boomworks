@@ -23,7 +23,7 @@
 == 下载 ==
 
 == 界面 ==
-[http://boomworks.googlecode.com/files/PcScheduler-Main-5.x.x.png]
+[http://boomworks.googlecode.com/files/PcScheduler-Main-5.x.x_01.png]
 
 [http://boomworks.googlecode.com/files/PcScheduler-JobDlg-5.x.x_01.png]
 
