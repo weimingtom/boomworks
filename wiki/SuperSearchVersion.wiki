@@ -1,4 +1,4 @@
 #summary 超级网际搜索 - SuperSearch - 超级网搜 - Latest version link
-#labels Featured
+#labels Deprecated
 
 $[http://boomworks.googlecode.com/files/SuperSearch-5.8.1.1.zip 5.8.1.1]$
