@@ -30,13 +30,14 @@
 
 == 界面截图 ==
 
-- 主界面
+- Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-main-cn-2.4.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Report.png]
 
-- 参数设定窗口
+- Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Summary.png]
+
 
 == 更新 ==
  * 3.0版 - Boom 2011-5-16
