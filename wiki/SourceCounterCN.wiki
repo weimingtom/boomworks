@@ -27,7 +27,7 @@
 
 == 下载地址 ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip]
 
 
 == 界面截图 ==
@@ -41,6 +41,11 @@
 [http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-settingdlg-cn-2.2.png]
 
 == 更新 ==
+ * 3.0版 - Boom 2011-5-16
+  * 用户界面重大调整
+  * 加强分析功能（如按照目录、文件修改日期、类型来统计分析源代码）
+  * 增加报表功能
+  * 估算软件项目在设计、开发、单元测试、集合测试各阶段的价格、人月数
 
  * 2.5.5.9版 - BOOM 2009-12-7
   * 修正统计文件扩展名区分大小写的错误
