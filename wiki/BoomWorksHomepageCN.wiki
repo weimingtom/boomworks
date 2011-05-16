@@ -1,6 +1,10 @@
 #summary BOOM 的软件作品主页。
 #labels Deprecated
 
+== 编程开发 ==
+
+ * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。
+
 == 大众软件[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
 
   * [SuperSearchCN 超级网际搜索(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费、快速、高效的多引擎搜索工具，内置１５０多个国内外搜索引擎，并拥有详细的搜索分类。让思考从搜索开始！
@@ -25,9 +29,7 @@
 
   * [SelfAnalytics 自我分析软件][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 你的内在星座是什么？你是什么类型的人？适合什么样的工作？
 
-== 编程开发[http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-free.jpg] ==
-
- * [SourceCounterCN 源代码统计工具(SourceCounter)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费的源代码统计分析工具，能够统计包括：代码行数、开发工数、项目成本、质量指标等项目信息，支持20多种源代码格式。具有统计迅速、准确的优点，是程序开发人员的必备工具。
+== 编程开发 ==
 
  * [EncodingConvertorCN 文件编码转换工具(EncodingConverter)] - 是一个功能强大的文件编码（Encoding）转换工具。能够批量、快速地转换大多数文件的格式。支持40多种格式（Encoding）类型。比如：GB2312的代码文件转换到UTF-8等等。
 
