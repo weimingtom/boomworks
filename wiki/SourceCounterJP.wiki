@@ -18,11 +18,23 @@ C++、VB.Net、VB、C#、JAVA、Delphi、ASP.Net、ASP、JSP、HTML などのソ
 
 == ダウンロード(Download) ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip]
 
-[http://boomworks.googlecode.com/files/SourceCounter-2.5.5.9.zip http://boomworks.googlecode.com/files/SourceCounter-main-jp-2.5.png]
+== Screenshots ==
 
+- Reporting
 
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Report.png]
+
+- Summary
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Summary.png]
+
+- Detail
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Detail.png]
+
+----
 == 作者への問い合わせ先(Contact) ==
 
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
