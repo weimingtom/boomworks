@@ -26,25 +26,25 @@
 
 == 下载地址 ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip]
 
 
 == 界面截图 ==
 
 - Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Report.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Report.png]
 
 - Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Summary.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Summary.png]
 
 - Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.0.284.1522.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Detail.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Detail.png]
 
 == 更新 ==
- * 3.0版 - Boom 2011-5-16
+ * 3.1版 - Boom 2011-5-18
   * 用户界面重大调整
   * 加强分析功能（如按照目录、文件修改日期、类型来统计分析源代码）
   * 增加报表功能
