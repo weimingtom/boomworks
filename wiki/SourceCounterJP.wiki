@@ -1,6 +1,5 @@
-#labels Featured
-
 #summary ソースカウンター(SourceCounter)のホームページです。（キーワード：ステップ カウント ステップ数 ソース カウンタ カウント ソースコード バグ検出密度 品質 指標 行数 数える）
+#labels Featured
 
 == ソフトの紹介 ==
 
