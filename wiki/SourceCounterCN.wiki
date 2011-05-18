@@ -1,4 +1,4 @@
-#summary 代码统计工具(SourceCounter) - 主页。(关键字： 源代码 代码行数 统计 分析 软件估算 单元测试 集成测试 测试密度 缺陷度量)
+#summary 代码统计工具(SourceCounter) - 主页 (关键字： 源代码 代码行数 统计 分析 软件估算 单元测试 集成测试 测试密度 缺陷度量)
 #labels Featured,Phase-Design
 
 [SourceCounterUsageCN =>使用说明]
