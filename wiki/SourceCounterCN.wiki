@@ -25,26 +25,28 @@
 
 == 下载地址 ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip]
 
 
 == 界面截图 ==
 
 - Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Report.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
 
 - Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Summary.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary.png]
 
 - Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Detail.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Detail.png]
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Detail.png]
 
 == 更新 ==
- * 3.1版 - Boom 2011-5-18
-  * 用户界面重大调整
+ * 3.3.91.79版 - Boom 2011-5-20
+  * 用户界面更新
   * 加强分析功能（如按照目录、文件修改日期、类型来统计分析源代码）
   * 增加报表功能
   * 估算软件项目在设计、开发、单元测试、集合测试各阶段的价格、人月数
