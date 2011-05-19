@@ -34,6 +34,8 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
 
+[http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report-01.png]
+
 - Summary
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary.png]
@@ -42,7 +44,6 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Detail.png]
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Detail.png]
 
 == 更新 ==
  * 3.3.91.79版 - Boom 2011-5-20
