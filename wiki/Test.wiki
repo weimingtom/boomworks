@@ -1,0 +1,23 @@
+#summary One-sentence summary of this page.
+
+== HP by Language ==
+
+ * [BoomWorksHomepageCN 中文] - [BoomWorksHomepageJP 日本語] - [BoomWorksHomepageEN English]
+
+== Boom's Works list ==
+
+  * [SuperSearchEN SuperSearch][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - Free, fast and efficient multi-engine search tool, with nearly 160 search engines and have some detailed search categories. 
+
+  * [SourceCounterEN SourceCounter][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - SourceCounter is the easiest to use, flexible, and fastest source code counter program for Windows that can count several types (over 30 pre-defined!) of text or source files and report them to you in a quick summary.
+ 
+  * [DesktopAssistantEN DesktopAssistant] - A tool for Desktop file categorization. This tool can categorize files to folders by using the role defined beforehand. The folders that stores the files is automatically created.
+
+  * [PCTaskTimerEN PCTaskTimer] - Multi-task execute tool.
+
+== Contact ==
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+
+----
+[http://www4.clustrmaps.com/user/48f6f616 http://www4.clustrmaps.com/stats/maps-no_clusters/www.boomworks.net--thumb.jpg][http://www2.clustrmaps.com/user/82b82050 http://www2.clustrmaps.com/stats/maps-no_clusters/www.boomworks.org-thumb.jpg]
+
+ * [http://www.google.com/analytics/ Google Analytics]
