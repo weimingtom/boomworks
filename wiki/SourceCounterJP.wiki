@@ -18,23 +18,27 @@
 
 == ダウンロード ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip]
 
 == Screenshots ==
 
-- Reporting
+■Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Report.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Summary.png]
 
-- Summary
+■Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Summary.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report.png]
 
-- Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.1.393.2149.zip http://boomworks.googlecode.com/files/SourceCounter-3.0-Detail.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report-01.png]
+
+■Detail
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Detail.png]
 
 ----
+
 == 作者への問い合わせ先(Contact) ==
 
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
