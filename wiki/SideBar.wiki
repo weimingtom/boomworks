@@ -1,9 +1,9 @@
 #summary BoomWorks.Org left side bar.
 #labels Deprecated
 
-==== [BoomWorksHomepageCN --中文主页] ====
-==== [BoomWorksHomepageJP --日本語HP] ====
-==== [BoomWorksHomepageEN --English] ====
+=== [BoomWorksHomepageCN --中文主页] ===
+=== [BoomWorksHomepageJP --日本語HP] ===
+=== [BoomWorksHomepageEN --English] ===
 
 ----
 
