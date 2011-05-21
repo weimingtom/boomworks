@@ -37,8 +37,6 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Detail.png]
 
-----
-
 == 作者への問い合わせ先(Contact) ==
 
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
