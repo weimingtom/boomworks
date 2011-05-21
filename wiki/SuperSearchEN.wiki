@@ -16,7 +16,7 @@ Free, fast and efficient multi-engine search tool, with more than 140 search eng
 
 == Download ==
 
-[http://boomworks.googlecode.com/files/SuperSearch-5.6.13.64.zip http://boomworks.googlecode.com/files/SuperSearch-5.6.13.64.zip]
+[http://boomworks.googlecode.com/files/SuperSearch-5.9.22.0.zip http://boomworks.googlecode.com/files/SuperSearch-5.9.22.0.zip]
 
 == Screenshot ==
 
