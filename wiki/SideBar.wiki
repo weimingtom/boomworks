@@ -2,16 +2,14 @@
 #labels Deprecated
 
 ----
- * [BoomWorksHomepageCN 中文] - [BoomWorksHomepageJP 日本語] - [BoomWorksHomepageEN English]
 
- * [http://down.boomworks.org 下载] - [http://down.boomworks.org ダウンロード] - [http://down.boomworks.org Download]
-
- * [http://blog.sina.com.cn/u/1163428152 Blog]
-
+==== [BoomWorksHomepageCN 中文主页] ====
+==== [BoomWorksHomepageJP 日本語HP] ====
+==== [BoomWorksHomepageEN English] ====
 ----
 
- * [http://www4.clustrmaps.com/user/48f6f616 http://www4.clustrmaps.com/stats/maps-no_clusters/www.boomworks.net--thumb.jpg]
+[http://www4.clustrmaps.com/user/48f6f616 http://www4.clustrmaps.com/stats/maps-no_clusters/www.boomworks.net--thumb.jpg]
 
- * [http://www2.clustrmaps.com/user/82b82050 http://www2.clustrmaps.com/stats/maps-no_clusters/www.boomworks.org-thumb.jpg]
+[http://www2.clustrmaps.com/user/82b82050 http://www2.clustrmaps.com/stats/maps-no_clusters/www.boomworks.org-thumb.jpg]
 
- * [http://www.google.com/analytics/ Google Analytics]
+[http://www.google.com/analytics/ Google Analytics]
