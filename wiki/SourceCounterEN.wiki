@@ -5,7 +5,7 @@
 
 SourceCounter tool is a flexible and fast source code counter program for Windows that can count several source code types (over 30 pre-defined!) of text or source files and report them to you in a quick summary.
 
-  * Support 30+ source code types(C++, Java, C, VB, SQL, PHP, ASP, JSP, Shell, etc)
+  * Support 30+ source code types(C++, Java, C, VB, SQL, PHP, ASP, JSP, Shell, VB.Net, C#, Delphi, HTML etc)
   * Can count Code/Comment/Blank line
   * Can analyze Cost of Coding phase and forecast the Low level design phase/Unit Test phase/Integration Test phase cost and defect
   * Can export the counting/analysis result as CSV file or HTML file
