@@ -23,3 +23,7 @@ SourceCounter tool is a flexible and fast source code counter program for Window
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report-01.png]
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report.png]
+
+
+== Contact ==
+  * [mailto:boomworks@gmail.com boomworks@gmail.com]
