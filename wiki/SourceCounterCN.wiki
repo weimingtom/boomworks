@@ -30,6 +30,10 @@
 
 == 界面截图 ==
 
+- Detail
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-Detail-en-usage.png]
+
 - Summary
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary-.png]
@@ -40,9 +44,6 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report-01.png]
 
-- Detail
-
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Detail.png]
 
 
 == 更新 ==
