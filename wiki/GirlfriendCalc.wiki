@@ -26,14 +26,13 @@
 
 == 界面 ==
 
+- 主界面
+
+[http://boomworks.googlecode.com/files/BfGfCalc-2.0.1.7.zip http://boomworks.googlecode.com/files/bfgfcalc-main-cn-2.0-01.png]
+
 - 计算结果
 
 [http://boomworks.googlecode.com/files/BfGfCalc-2.0.1.7.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_02.PNG]
-
-- 主界面
-
-[http://boomworks.googlecode.com/files/BfGfCalc-2.0.1.7.zip http://boomworks.googlecode.com/files/BfGfCalculator-Main-CN-1.6.x_01.PNG]
-
 
 == 更新 ==
 
