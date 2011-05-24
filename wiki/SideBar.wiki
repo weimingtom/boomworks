@@ -5,8 +5,9 @@
   * [BoomWorksHomepageJP => 日本語HP]  
   * [BoomWorksHomepageEN => English]
 
-  * [mailto:boomworks@gmail.com boomworks@gmail.com]
+----
 
+[mailto:boomworks@gmail.com boomworks@gmail.com]
 
 [http://www4.clustrmaps.com/user/48f6f616 http://www4.clustrmaps.com/stats/maps-no_clusters/www.boomworks.net--thumb.jpg]
 
