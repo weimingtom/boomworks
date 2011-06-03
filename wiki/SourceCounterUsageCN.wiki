@@ -3,8 +3,9 @@
 
 [SourceCounterCN =>主页] 
 
-== 主窗口 ==
-[http://boomworks.googlecode.com/files/SourceCounter-MainDlg-CN-2.4.png]
+== Counting settings and Start counting ==
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.4-en-detail-usage.jpg]
 
  * 统计设定区域
   * “添加...” - 打开“添加源代码目录”对话框
@@ -23,6 +24,10 @@
  * “界面语言...”- 打开“语言选择”对话框
  * “关于...” - 打开“关于”对话框
  * “退出” - 退出程序
+
+== Analysis and Refresh Result ==
+
+[http://boomworks.googlecode.com/files/SourceCounter-3.4-en-report-usage.jpg]
 
 == 更多设定 对话框 ==
 
