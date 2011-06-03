@@ -25,28 +25,35 @@
 
 == 下载地址 ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip]
 
 
 == 界面截图 ==
 
 - Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-Detail-en-usage.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-Detail-en-usage.png]
 
 - Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary-.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary-.png]
 
 - Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report-01.png]
 
 
 
 == 更新 ==
+
+ * 3.4.1.1 - Boom 2011-6-2
+  * 增加如下统计信息到报表模板
+   * 总文件数、总大小
+   * 代码种类统计信息
+   * 测试用例和缺陷数
+
  * 3.3.91.79版 - Boom 2011-5-20
   * 用户界面更新
   * 加强分析功能（如按照目录、文件修改日期、类型来统计分析源代码）
@@ -100,8 +107,7 @@
  * 2.0.1.1版 - BOOM 2008-10-23
   * 支持多路径统计
   * 支持更多文件格式
-----
+
 == 联系我们 ==
 
   * [mailto:boomworks@gmail.com boomworks@gmail.com]
-  * [mailto:boomworks@hotmail.com boomworks@hotmail.com]
