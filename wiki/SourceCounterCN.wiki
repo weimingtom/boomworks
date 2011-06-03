@@ -32,7 +32,7 @@
 
 - Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-Detail-en-usage.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.4-en-detail-usage.jpg]
 
 - Summary
 
