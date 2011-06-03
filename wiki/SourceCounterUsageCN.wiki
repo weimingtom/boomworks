@@ -1,5 +1,5 @@
 #summary 源代码统计工具(SourceCounter) - 使用说明。
-#labels Phase-Support
+#labels Phase-QA,Phase-Deploy
 
 [SourceCounterCN =>主页] 
 
@@ -29,9 +29,7 @@
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.4-en-report-usage.jpg]
 
-== 更多设定 对话框 ==
-
-[http://boomworks.googlecode.com/files/SourceCounter-MoreSettingDlg-CN-2.4.png]
+=== Analysis Parameter ===
 
 *本工具默认给出各种质量指标和工数、成本指标等都是业内的参考值，用户可以根据各个公司、个人的情况调整。*
 
@@ -82,5 +80,5 @@
     * “Cancel”：同上
 
 == 联系我们(Contact) ==
+
  * [mailto:boomworks@gmail.com boomworks@gmail.com] 
- * [mailto:boomworks@hotmail.com boomworks@hotmail.com] 
