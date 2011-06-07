@@ -3,7 +3,7 @@
 
   * [BoomWorksHomepageCN => 中文主页]
   * [BoomWorksHomepageJP => 日本語HP]  
-  * [BoomWorksHomepageEN => English]
+  * [http://code.google.com/p/boomworks/ => English]
 
 ----
 
