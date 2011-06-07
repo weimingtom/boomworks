@@ -25,28 +25,28 @@
 
 == 下载地址 ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip]
-
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.12.43.zip http://boomworks.googlecode.com/files/SourceCounter-3.4.12.43.zip]
 
 == 界面截图 ==
 
 - Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.4-en-detail-usage.jpg]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.12.43.zip http://boomworks.googlecode.com/files/SourceCounter-3.4-en-detail-usage.jpg]
 
 - Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary-.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.12.43.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary-.png]
 
 - Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.4.1.1.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.12.43.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report-01.png]
 
-
-
 == 更新 ==
+
+ * 3.4.12.43 - Boom 2011-6-6
+  * 增加过滤器显示隐藏菜单
 
  * 3.4.1.1 - Boom 2011-6-2
   * 增加如下统计信息到报表模板
