@@ -4,7 +4,7 @@
 == 大众软件 ==
   * [SuperSearchCN 超级网际搜索(SuperSearch)][http://down.boomworks.org/ http://srccounter.googlecode.com/files/img-new.png] - 免费、快速、高效的多引擎搜索工具，内置１５０多个国内外搜索引擎，并拥有详细的搜索分类。让思考从搜索开始！
 
-  * [BingBookCN 天涯人脉通讯录2010(BingBook)] - 集通讯录管理、客户关系管理、人脉管理于一身的管理软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
+  * [BingBookCN 天涯人脉通讯录(BingBook)] - 集通讯录管理、客户关系管理、人脉管理于一身的管理软件。免费、绿色免安装、便于U盘携带、支持多国语言。 
 
   * [StopWatchCN 秒表计时器(Stopwatch)] - 秒表程序，能够记录多个时间点的秒数。操作简单，易于使用。
 
@@ -29,7 +29,7 @@
 
 == 预览版 ==
 
-  * [PcSchedulerCN 定时执行专家] - 定时执行软件。
+  * [PcSchedulerCN 定时执行专家(PcScheduler)] - 定时执行软件。
 
   * [MindMapWordsCN MindMap背单词(MindMapWords)] - 用脑图的形式来记忆单词的软件。
 
