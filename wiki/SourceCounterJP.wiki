@@ -1,4 +1,4 @@
-#summary ソースカウンター(SourceCounter)のホームページです。（キーワード：ステップ カウント ステップ数 ソース カウンタ カウント ソースコード バグ検出密度 品質 指標 行数 数える）
+#summary ソースカウンター(SourceCounter)のホームページです。（キーワード：ステップ カウント ソースコードカウント ステップ数 ソースコード カウンタ カウント バグ検出密度 品質 指標 行数 数える）
 #labels Featured
 
 == ソフトの紹介 ==
@@ -18,23 +18,23 @@
 
 == ダウンロード ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip]
 
 == スクリーンショット ==
 
 ■Detail
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-Detail-en-usage.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-Detail-en-usage.png]
 
 ■Summary
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Summary.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Summary.png]
 
 ■Reporting
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report.png]
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report-01.png]
+[http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip http://boomworks.googlecode.com/files/SourceCounter-3.3-jp-Report-01.png]
 
 == 作者への問い合わせ先(Contact) ==
 
