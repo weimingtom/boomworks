@@ -1,4 +1,4 @@
-#summary スーパーサーチ - SuperSearch - 日本語のホームページ｡
+#summary スーパーサーチ - SuperSearch - 日本語のホームページ（キーワード 情報収集 統合検索 検索ツール 検索エンジン サジェスト 一括検索）
 #labels Featured
 
 == 紹介 ==
