@@ -14,7 +14,7 @@ SourceCounter tool is a flexible and fast source code counter program for Window
 
 = Download =
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip http://boomworks.googlecode.com/files/SourceCounter-3.3.91.79.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.5.33.73.zip http://boomworks.googlecode.com/files/SourceCounter-3.5.33.73.zip]
 
 = Details =
 
