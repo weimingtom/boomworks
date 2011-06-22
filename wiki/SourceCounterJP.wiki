@@ -18,7 +18,7 @@
 
 == ダウンロード ==
 
-[http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip http://boomworks.googlecode.com/files/SourceCounter-3.4.16.85.zip]
+[http://boomworks.googlecode.com/files/SourceCounter-3.5.33.73.zip http://boomworks.googlecode.com/files/SourceCounter-3.5.33.73.zip]
 
 == スクリーンショット ==
 
