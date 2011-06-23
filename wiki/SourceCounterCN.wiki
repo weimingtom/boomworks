@@ -29,15 +29,15 @@
 
 == 界面截图 ==
 
-- Detail
+- 详细
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.4-en-detail-usage.jpg]
 
-- Summary
+- 合计
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Summary-.png]
 
-- Reporting
+- 报表
 
 [http://boomworks.googlecode.com/files/SourceCounter-3.3-cn-Report.png]
 
