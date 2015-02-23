@@ -1,4 +1,4 @@
 #summary 代码统计工具 - 源代码 - 代码 - 源码 - Source Code Analysis Counting - SourceCounter - Latest version download link
 #labels Deprecated
 
-$[http://boomworks.googlecode.com/files/SourceCounter-3.5.33.73.zip 3.5.33.73]$
+$[http://hvyon.com/p/SccRegFrm.aspx Free Register]$
